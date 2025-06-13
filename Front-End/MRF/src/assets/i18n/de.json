@@ -1,0 +1,513 @@
+{
+  "TEST_PAGE": {
+    "PAGE_LABEL": "Test",
+    "WELCOME": "Willkommen",
+    "GOODBYE": "Tschüss"
+  },
+
+  "GLOBAL": {
+    "SEARCH": "Suchen",
+    "SEARCH_TITLE": "Suchen",
+    "NOT_FOUND": "Nicht gefunden"
+  },
+  
+  "MENU": {
+    "SERVICES": "DIENSTLEISTUNGEN",
+    "TOURS": "Touren",
+    "RENTALS": "Vermietungen"
+  },
+
+  "FOOTER": {
+    "CONTACT_US": "KONTAKT UNS",
+
+    "CONTACT_INFO": {
+      "PHONE": "+ 34 651 651 341",
+      "MAIL": "info@motionrentandfun.com",
+      "ADRESS": "Calle Tiziano 37, 35017 Las Palmas de Gran Canaria",
+      "ADRESS_2": "(Las Palmas)"
+    },
+
+    "LEGAL_LINKS": "LINKS",
+
+    "FAQS": "FAQ's",
+
+    "LEGAL_ADVISE": "Rechtlicher Hinweisl",
+
+    "PRIVACITY": "Datenschutz",
+
+    "COOKIES": "Cookie Politik",
+
+    "ACCESS": "Zugänglichkeitserklärung"
+  },
+
+  "HOME_PAGE": {
+    "PAGE_LABEL": "ANFANG",
+
+    "CARROUSEL": {
+      "LINE_1": "<strong>Entdecken Sie Gran Canaria</strong> und die nachhaltige Mobilität mit <strong>Motion Rent and Fun</strong>",
+      "LINE_2": "Genießen Sie ein unvergessliches Erlebnis mit unseren <strong>100% elektrischen</strong> Scootern Fauro Venice"
+    },
+
+    "ITEM_BATTERY": {
+      "LINE_1": "100%",
+      "LINE_2": "elektrisch"
+    },
+
+    "ITEM_LICENSE": {
+      "LINE_1": "LIZENZ",
+      "LINE_2": "AM, B oder höher"
+    },
+
+    "ITEM_HOTEL": {
+      "LINE_1": "Lieferung",
+      "LINE_2": "zu Ihrem Hotel"
+    },
+
+    "ITEM_KM": {
+      "LINE_1": "60 - 70 km",
+      "LINE_2": " Autonomie"
+    },
+
+    "TEXT_EXPERIENCE_DESCRIPTION": "<strong>Genießen Sie ein unvergessliches Erlebnis</strong> mit den <strong>100% elektrischen Motorrädern von Motion Rent & Fun.</strong> Unsere Kunden sind von den neuen Motorrädern begeistert, denn Sie sind <strong>sehr einfach zu bedienen</strong> und es ist ein einzigartiges Fahrerlebnis: <strong>keine Abgase, ruhigeres Fahren und kein Lärm</strong>! Da unsere Elektromotorräder auf <strong>45 km/h</strong> begrenzt sind dürfen diese mit einem <strong>AM- oder B- Führerschein</strong> gefahren werden. Sie sind auch das perfekte Transportmittel um sich in städtischen Zentren fort zu bewegen und um diese zu besuchen.",
+
+    "TEXT_CHARGER": "Wir stellen ihnen ein <strong>Ladegerät zur Verfügung, das Sie in jeder herkömmlichen Steckdose verwenden können</strong>, und <strong>zwei herausnehmbare Akkus mit einer Reichweite von 30-35 km pro Batterie</strong>.",
+
+    "TEXT_DESCRIPTION_AS_TOY": "Kunden sagen oft: <strong>'Sie sehen aus wie ein Spielzeug, so schön sind sie, aber sie sind sehr funktional</strong>, und mit dieser Leichtigkeit zu reisen, in Stille, <strong>ein Wunder, wir haben es sehr genossen'</strong>.",
+
+    "TEXT_HOMOLOGATION": "Unsere Roller haben eine <strong>EU-Typgenehmigung (Euro5, emissionsfrei)</strong> und erfüllen die weltweit höchsten Sicherheitsstandards.",
+
+    "TEXT_BATTERY": "<strong>100 % tragbare Batterien.</strong> Sie können mühelos eine oder beide Batterien unserer Motorräder entfernen. Es ist möglich, einen der Akkus aufzuladen, während der andere verwendet wird, oder beide aufzuladen und so maximale Autonomie zu erzielen.",
+
+    "1DAY": "1TAG",
+
+    "2DAYS": "2TAGE",
+
+    "3DAYS": "3TAGE",
+
+    "1DAY_SUBTEXT": "50 EUROS",
+
+    "2DAY_SUBTEXT": "45 EUROS",
+
+    "3DAY_SUBTEXT": "40 EUROS",
+
+    "PRICE_PER_DAY": "*Preis pro Tag.",
+
+    "TAX_1": "Helme, Versicherung und Steuern inklusive.",
+
+    "TAX_2": "Kaution 130 € (bar oder mit Karte)",
+
+    "BOOKING_INFO": "Reservierungen und Info:",
+
+    "WHATSAPP_ITEM": {
+      "LINE_1": "Schreiben Sie uns per",
+      "LINE_2": "Whatsapp"
+    },
+
+    "PHONE_ITEM": {
+      "LINE_1": "Rufen Sie uns an",
+      "LINE_2": "+34 651 651 341"
+    },
+
+    "LIST_ITEM": {
+      "LINE_1": "Füllen Sie ein",
+      "LINE_2": "Formular aus"
+    },
+
+    "PREFOOTER_TEXT": "Nutzen Sie die Privilegien eines <strong>100% Elektrorollers</strong> und Sie müssen nicht an Tankstellen denken, Sie haben immer einen herkömmlichen Stecker zur Hand wie beim Aufladen eines Mobiltelefons. ",
+
+    "PREFOOTER_TEXT_2": "Fragen Sie nach unseren Buchungskonditionen über whatsapp "
+  },
+
+  "OUR_MISSION_PAGE": {
+    "PAGE_LABEL": "UNSERE MISSION ",
+
+    "CARROUSEL": {
+      "LINE_1": "Wir arbeiten an der Förderung einer zuverlässigen und effizienten <strong>städtischen Mobilität auf Gran Canaria.</strong>",
+      "LINE_2": "Ihr Partner für <strong>nachhaltige Mobilität auf Gran Canaria</strong>",
+      "LINE_3": "Elektro-Motorradverleih auf Gran Canaria by <strong>Motion Rent and Fun</strong>"
+    },
+
+    "OUR_MISSION": "UNSERE MISSION ",
+
+    "OUR_MISSION_DESCRIPTION_TEXT": {
+      "TEXT_1": "Wir von <strong>motion rent and fun</strong> wollen die Erneuerung des Fuhrparks auf den bereits dicht besiedelten Inseln fördern, die jedes Jahr eine steigende Zahl von Besuchern und neuen Einwohnern empfangen. Die Lösung dieses Problems liegt in der Einführung <strong>effizienter, sparsamer und nachhaltiger Fahrzeuge</strong> auf dem Markt, die nicht nur für Mobilität sorgen, sondern auch ein <strong>unvergessliches Erlebnis</strong> garantieren.",
+      "TEXT_2": "Unsere Städte und Gemeinden reduzieren zunehmend die Geschwindigkeitsbegrenzungen, stellen Bus- und Taxispuren für Mopeds zur Verfügung und stellen den Einwohnern und Besuchern mehr Motorradstellplätze zur Verfügung, die auch in blauen oder grünen Zonen kostenlos sind.",
+      "TEXT_3": "Sparen Sie Zeit und Geld mit unseren <strong>100% elektrischen Motorrollern</strong>, während Sie auf der Insel arbeiten oder Ihren Urlaub genießen. Wussten Sie, dass es von Las Palmas de Gran Canaria nach Cruz de Tejeda etwa 25 km sind? Vielleicht nennt man uns deshalb den Miniaturkontinent? Deshalb glauben wir, dass eines unserer Motorräder die perfekte Möglichkeit ist, die Insel auf nachhaltige und respektvolle Weise kennen zu lernen.",
+      "TEXT_4": "Bei <strong>motion rent and fun</strong> arbeiten wir daran, unseren Kunden die Produkte der <strong>Firma Fauro Motor Company</strong> anzubieten, die mit in Europa hergestellten Teilen, die alle garantiert und zugelassen sind, zusammengebaut werden."
+    },
+    "PREFOOTER_TEXT": "Entdecken Sie alle Vorteile unserer Produkte, nicht nur für Sie, sondern für die Gesellschaft im Allgemeinen, denn sie bedeuten sowohl Energie- als auch wirtschaftliche Einsparungen und tragen außerdem zu einer nachhaltigeren städtischen und überregionalen Mobilität und einer ruhigeren Umwelt bei.",
+    "PREFOOTER_TEXT_2": "Fragen Sie über WhatsApp nach unseren Reservierungspunkten"
+  },
+
+  "RENTALS_PAGE": {
+    "PAGE_LABEL": "VERMIETUNG",
+    "CARROUSEL": {
+      "LINE_1": "Wir setzen uns für eine zuverlässige und effiziente <strong>urbane Mobilität</strong> auf <strong>Gran Canaria</strong> ein.",
+      "LINE_2": "Ihr Partner für <strong>nachhaltige Mobilität auf Gran Canaria</strong>.",
+      "LINE_3": "<strong>Elektroroller mieten</strong> auf Gran Canaria mit <strong>Motion Rent and Fun</strong>."
+    },
+    "SCOOTER": "Genieße einen <strong>{{model}}</strong>-Roller.",
+    "LICENSE": "Führerschein AM, B oder höher erforderlich.",
+    "SERVICE_TEXT": "Derzeit bieten wir unseren Tagesmietservice für unser klassischstes und charmantestes Modell an: den Fauro Venice. Unser Service ist ein 'Lieferservice', d.h., wir bringen das Fahrzeug zu deiner Unterkunft. Es handelt sich um einen 100 % elektrischen Roller, vergleichbar mit einem 50ccm, für den ein Führerschein der Klasse AM, B oder höher erforderlich ist. Im Mietpreis enthalten sind Helme, zwei entnehmbare LG Lithium-Ionen-Akkus (je 7,8 kg) mit eigener Ladestandsanzeige und jeweils einer Reichweite von 30–35 km. Der Roller verfügt über eine Alarmanlage, schlüssellosen Start und ein Ladegerät, mit dem die Akkus an jeder normalen Steckdose aufgeladen werden können.",
+    "MOTORIZATION_TEXT": "Elektrische Antriebe sind die Zukunft. Durch die Integration der Elektromotoren im Hinterrad erhöht sich die Stabilität durch das zusätzliche Gewicht. In Kombination mit überdurchschnittlich leistungsstarken Bremsen sind unsere Fahrzeuge ideal für Einsteiger, die stressfrei durch unsere Straßen fahren möchten – einfach Gas geben und bremsen, ohne Abgase, ohne Verbrennungen, ohne Vibrationen und ohne Lärm!",
+    "ISLANDS_TEXT": "Unsere Inseln, dicht besiedelt und mit wenigen Parkmöglichkeiten in vielen Gegenden, brauchen eine Entlastung des innerstädtischen Verkehrs, um lebenswerter zu werden.",
+    "RENT_LINE_1": "Hauszustellung im Nordosten und Süden von Gran Canaria. Fragen Sie nach unseren Übergabepunkten.",
+    "RENT_TITLE": "VERMIETUNG",
+    "RENT_BUTTON": "JETZT BUCHEN",
+    "RENT_SCOOTER": "Miete jetzt deinen <strong>{{model}}</strong>",
+    "INCLUDE": "<strong>Inklusive:</strong> 2 Helme – 2 Akkus – Versicherung – Steuern",
+    "DELIVERY": "<strong>HAUSLIEFERUNG</strong>",
+    "ELECTRIC": "100 % elektrisch",
+    "NOISE": "Geräuschlos",
+    "POLLUTION": "Emissionsfrei",
+    "VIBRATION": "Vibrationsfrei",
+    "BURN": "Keine Verbrennungsgefahr",
+    "MORE_INFO": "Mehr Infos",
+    "SHOW_LESS": "Weniger anzeigen",
+    "SHOW_ELECTRIC": "100 % elektrisch, vergleichbar mit 50 ccm",
+    "SHOW_BATTERY": "2 entnehmbare Akkus mit Ladestandsanzeige (je 7,8 kg)",
+    "SHOW_AUTONOMY": "Reichweite von 30–35 km pro Akku",
+    "RENT": {
+      "LINE_1": "Kaution von <strong>{{price}}</strong> bar oder per Karte"
+    },
+    "PREFOOTER_TEXT": "Profitiere von den Vorteilen eines <strong>100 % elektrischen Rollers</strong> in Maspalomas – du brauchst keine Tankstelle, nur eine normale Steckdose, und der Stromverbrauch ist vergleichbar mit dem eines Mobiltelefons.",
+    "PREFOOTER_TEXT_2": "Fragen Sie nach unseren Buchungspunkten über WhatsApp."
+  },
+
+  "TOURS_PAGE": {
+    "PAGE_LABEL": "TOUREN",
+    "CARROUSEL": {
+      "LINE_1": "Wir setzen uns für eine zuverlässige und effiziente <strong>urbane Mobilität</strong> auf <strong>Gran Canaria</strong> ein.",
+      "LINE_2": "Ihr Partner für <strong>nachhaltige Mobilität auf Gran Canaria</strong>.",
+      "LINE_3": "<strong>Elektroroller mieten</strong> auf Gran Canaria mit <strong>Motion Rent and Fun</strong>."
+    },
+    "TITLE": "ROLLER-TOUREN",
+    "TEXT_1": "Bei Motion Rent and Fun laden wir dich ein, unsere Website zu besuchen und unsere neuesten Dienstleistungen kennenzulernen – darunter vier Touren, die bereits verfügbar sind.",
+    "TEXT_2": "Wie du weißt, liefern wir unsere Elektroroller direkt an die Unterkunft unserer Kunden. Neben der Tages- oder Wochenmiete bieten wir jetzt auch geführte Touren mit offiziellen Guides auf Deutsch, Englisch und Spanisch an.",
+    "PANORAMIC_TOUR_LAS_PALMAS": {
+      "NAME": "Panoramatour – Las Palmas",
+      "DURATION": "<strong>Dauer: </strong> 6 Stunden",
+      "PRICE": "<strong>Preis: </strong>Ab 75 € / Person",
+      "STOPS": {
+        "NAME": "<strong>Wichtigste Stopps: </strong>",
+        "STOP_1": "Torre Woermann",
+        "STOP_2": "Vegueta",
+        "STOP_3": "Aussichtspunkte wie Las Coloradas, Altavista u.a."
+      },
+      "EXTRA": {
+        "NAME": "<strong>Extras: </strong>",
+        "EXTRA_1": "<strong>Optionales Mittagessen: </strong> +15 €",
+        "EXTRA_2": "<strong>Paare: </strong> Ab 120 €"
+      },
+      "IDEAL": "<strong> Ideal für: </strong>Geschichts- und Aussichtsliebhaber",
+      "DESCRIPTION": "Diese Route gibt einen umfassenden Überblick über Las Palmas de Gran Canaria und die Entwicklung der Stadt vom Ursprung im Stadtteil Vegueta bis heute. Dank der einfachen Handhabung unserer Elektroroller tauchst du bequem in die Stadtgeschichte ein und erreichst Aussichtspunkte, die über fünf Jahrhunderte Geschichte hinweg blicken. Halte diesen Moment mit deinem Fauro Venice fest – vor der Kulisse der bevölkerungsreichsten Stadt der Kanaren."
+    },
+    "PANORAMIC_TOUR_AYAGAURES": {
+      "NAME": "Panoramatour – Ayagaures",
+      "DURATION": "<strong>Dauer: </strong> 4 Stunden",
+      "PRICE": "<strong>Preis: </strong>Ab 75 € / Person",
+      "STOPS": {
+        "NAME": "<strong>Wichtigste Stopps: </strong>",
+        "STOP_1": "Ayagaures-Stausee",
+        "STOP_2": "Einheimische Flora und Fauna",
+        "STOP_3": "Aussicht auf Palmitos Park und die Dünen von Maspalomas"
+      },
+      "IDEAL": "<strong> Ideal für: </strong>Naturfreunde und Ruhesuchende",
+      "DESCRIPTION": "Diese geführte Tour mit unseren stabilen und benutzerfreundlichen Fauro Venice Elektrorollern führt dich von Maspalomas ins Inselinnere – lautlos, vibrationsfrei und ohne Abgase. Wir besuchen den Ayagaures-Stausee und erfahren, wie Wasser gespeichert wird und welche endemischen Arten dort leben. Vom Aussichtspunkt Ayagaures genießen wir den Blick auf Palmitos Park und kehren mit Panoramablick auf die Dünen zurück – ein unvergessliches Erlebnis."
+    },
+    "TOUR_LAS_PLAYAS": {
+      "NAME": "Strandtour",
+      "DURATION": "<strong>Dauer: </strong> 5 Stunden",
+      "PRICE": "<strong>Preis: </strong>Ab 75 € / Person",
+      "STOPS": {
+        "NAME": "<strong>Besuchte Strände: </strong>",
+        "STOP_1": "Dünen von Maspalomas",
+        "STOP_2": "Playa del Inglés, Meloneras und Amadores",
+        "STOP_3": "Archäologische Stätte El Llanillo"
+      },
+      "IDEAL": "<strong> Ideal für: </strong>Strand- und Kulturliebhaber",
+      "DESCRIPTION": "Wir starten an der Playa del Inglés mit einem Blick auf die Dünen von Maspalomas, besuchen das Naturreservat La Charca, fahren weiter nach Meloneras und entlang der Küstenstraße GC-500 nach El Pajar. Dort machen wir eine Pause und besichtigen die archäologische Stätte El Llanillo. Danach geht es weiter nach Anfi del Mar und schließlich nach Amadores, wo du Zeit zum Baden oder Entspannen in einer der Bars hast. Rückfahrt zur Playa del Inglés."
+    },
+    "COMBO": {
+      "NAME": "Kombi: Strände + Yacht bei Sonnenuntergang",
+      "DURATION": "<strong>Dauer: </strong> 6 Stunden (Rollertour + 2 Std. Yacht)",
+      "PRICE": "<strong>Preis: </strong>Ab 125 € / Person",
+      "STOPS": {
+        "NAME": "<strong>Inklusive: </strong>",
+        "STOP_1": "Strandtour entlang Maspalomas und Mogán",
+        "STOP_2": "Private Yachtfahrt bei Sonnenuntergang",
+        "STOP_3": "Zeit zum Schwimmen und Entspannen"
+      }
+    },
+    "PREFOOTER_TEXT": "Profitiere von den Vorteilen eines <strong>100 % elektrischen Rollers</strong> in Maspalomas – du brauchst keine Tankstelle, nur eine normale Steckdose, und der Stromverbrauch ist vergleichbar mit dem eines Mobiltelefons.",
+    "PREFOOTER_TEXT_2": "Fragen Sie nach unseren Buchungspunkten über WhatsApp."
+  },
+
+  "SALES_PAGE": {
+    "PAGE_LABEL": "VERKAUF",
+
+    "CARROUSEL": {
+      "LINE_1": "Profitieren Sie von unseren Superangeboten für <strong>kilometernull Elektromotorräder</strong> von Fauro",
+      "LINE_2": "Lernen Sie unsere Fun- und <strong>Horwin CR6-Modelle</strong> mit <strong>50 und 125 ccm.</strong> Hubraum kennen und lassen Sie sich die Gelegenheit nicht entgehen"
+    },
+
+    "KM_0": "NULL KILOMETER",
+
+    "KM_TEXT": "Unsere 100 % elektrischen Null-Kilometer-Motorräder haben eine Mindestkilometerleistung und sind selbstverständlich sowohl mit Garantie als auch mit Kundendienst ausgestattet. Und das alles zu einem einzigen Preis! <strong>Probieren Sie sie unverbindlich aus und klären Sie Ihre Zweifel </strong>, indem Sie anrufen oder schreiben an + 34 651 651 341.",
+
+    "FAURO_CR6": {
+      "NAME": "FAURO HORWIN CR6",
+
+      "DESCRIPTION": "<strong>Die perfekte Kombination aus Stil und Leistung.</strong> Der Horwin bietet eine überragende Leistungsabgabe. Entspricht 125 ccm und sorgt für Fahrspaß.",
+
+      "PRICE_TAG": "Für alleine",
+
+      "SPEED": "95 km/h Höchstgeschwindigkeit (begrenzt)",
+
+      "AUTONOMY": "9O-100 Kilometer Autonomie",
+
+      "POWER": "6,2 KW Motorleistung",
+
+      "BATTERY": "Lithiumbatterie (72V55AH)",
+
+      "CHARGE": "3 Stunden Ladezeit",
+
+      "CYCLE": "2.000 Ladezyklen",
+
+      "TECH": {
+        "BREAKS": "Bremsen: D 100/80–17, T 120/80–17",
+
+        "TYRES": "Reifen: D&T:120/70-12",
+
+        "WEIGHT": "Gesamtgewicht: 134 Kilo",
+
+        "MAX_WEIGHT": "Maximale Belastung: 170 Kilo",
+
+        "SIZE": "Abmessungen: 204×77×112 cm",
+
+        "CHARGER": "Ladegerät: 220 V / 15 A",
+
+        "TENSION": "Spannung: 110V/220V 50-60Hz",
+
+        "CONTROLLER": "Controller: 72V70A",
+
+        "MAX_INCLINATION": "Maximale Neigung: 20°",
+
+        "MAX_PAR": "Max. Drehmoment: 296 Nm"
+      }
+    },
+    "FAURO_FUN": {
+      "NAME": "FAURO FUN",
+
+      "DESCRIPTION": "<strong>Ohne Zweifel die beste Art, sich fortzubewegen.</strong> Agil in der Stadt, aber auch auf langen Strecken komfortabel unterwegs. Entspricht einem 50 ccm Moped.",
+
+      "PRICE_TAG": "Für alleine",
+
+      "SPEED": "45 km/h. Höchstgeschwindigkeit (begrenzt)",
+
+      "AUTONOMY": "80-90 Kilometer Autonomie",
+
+      "POWER": "3.000 W Motorleistung",
+
+      "BATTERY": "Abnehmbarer Lithium-Akku (72V40AH)",
+
+      "CHARGE": "6-8 Stunden Ladezeit",
+
+      "CYCLE": "2.000 Ladezyklen",
+
+      "TECH": {
+        "BREAKS": "Bremsen: D&T-Scheibenbremsen",
+
+        "TYRES": "Reifen: D&T:120/70-12",
+
+        "WEIGHT": "Gesamtgewicht: 76 kg",
+
+        "MAX_WEIGHT": "Maximale Belastung: 150 Kilo",
+
+        "SIZE": "Abmessungen: 191 x 80 x 115 cm",
+
+        "CHARGER": "Ladegerät: 72V8A",
+
+        "TENSION": "Spannung: 110V/220V 50-60Hz",
+
+        "CONTROLLER": "Controller: 72V70A",
+
+        "MAX_INCLINATION": "Maximale Neigung: 30°"
+      }
+    },
+
+    "TEST": "Probieren Sie sie unverbindlich aus oder weitere Informationen anfordern:",
+
+    "WHATSAPP_ITEM": {
+      "LINE_1": "Schreiben Sie uns auf",
+      "LINE_2": "Whatsapp"
+    },
+
+    "PHONE_ITEM": {
+      "LINE_1": "Rufen Sie uns an"
+    },
+    "LICENSE": "Fahrbar mit ",
+
+    "LICENSE_TYPE_CR6": "Lizenz B",
+
+    "LICENSE_TYPE_FUN": "AM-Lizenz",
+
+    "PREFOOTER_TEXT": "Profitieren Sie von den Vorzügen eines <strong>100 % Elektrorollers</strong> und müssen nicht an Tankstellen denken, Sie haben immer einen herkömmlichen Stecker zur Hand und dieser verbraucht Energie wie das Aufladen eines Mobiltelefons.",
+
+    "PREFOOTER_TEXT_2": "Fragen Sie per WhatsApp nach unseren Reservierungspunkten"
+  },
+
+  "CONTACT_PAGE": {
+    "VALIDATION": {
+      "REQUIRED_NAME": "Name ist erforderlich",
+      "REQUIRED_EMAIL": "E-Mail ist erforderlich",
+      "INVALID_EMAIL": "Muss eine gültige E-Mail-Adresse sein",
+      "MAX_MESSAGE": "Maximal 200 Zeichen",
+      "AUTHORIZE_REQUIRED": "Sie müssen die Kontaktaufnahme genehmigen, um fortzufahren"
+    },
+    "PAGE_LABEL": "KONTAKT",
+    "CARROUSEL": {
+      "LINE_1": "Entdecke nachhaltige Mobilität mit <strong>Motion Rent and Fun</strong> auf Gran Canaria"
+    },
+    "CONTACT": {
+      "TITLE": "Kontaktinformationen von Motion Rent and Fun",
+      "TEXT_1": "Wenn du Interesse hast, uns zu kontaktieren, um mehr über unsere spannenden Angebote zu erfahren oder ein unverbindliches Angebot anzufordern, findest du hier die Kontaktinformationen von Motion Rent and Fun:",
+      "ADRESS": "Adresse: Calle Tiziano 37, 35017 Las Palmas de Gran Canaria (Las Palmas)",
+      "PHONE": "Telefon: +34 651 651 341",
+      "MAIL": "E-Mail: info@motionrentandfun.com",
+      "TEXT_2": "WENN DU AN EINER MIETE FÜR 1 MONAT ODER MEHR INTERESSIERT BIST, FRAGE NACH UNSEREN SONDERPREISEN FÜR EINWOHNER UND UNTERNEHMEN.",
+      "MAP_ALT": "Karte"
+    },
+    "CONTACT_FORM": {
+      "TITLE": "Kontaktformular",
+      "FIELD": "'*' kennzeichnet Pflichtfelder",
+      "NAME": "Name*",
+      "MAIL": "E-Mail*",
+      "MESSAGE": "Nachricht",
+      "MESSAGE_PLACEHOLDER": "Schreibe deine Nachricht hier",
+      "PRIVACITY": "Ich habe die Datenschutzrichtlinie gelesen und akzeptiere sie *",
+      "CONTACT": "Ich erlaube die Kontaktaufnahme per E-Mail oder anderen Mitteln zu kommerziellen Zwecken",
+      "CAPTCHA": "Ich bin ein Mensch",
+      "SEND_BUTTON": "Senden"
+    },
+    "RENTING_FORM": {
+      "TITLE": "Kontaktformular – Elektroroller-Vermietung",
+      "FIELD": "'*' kennzeichnet Pflichtfelder",
+      "NAME": "Name*",
+      "SURNAME": "Nachname",
+      "MAIL": "E-Mail*",
+      "PHONE": "Telefon",
+      "START_DATE": "Mietbeginn*",
+      "END_DATE": "Mietende*",
+      "BIKE_NUM": "Anzahl der benötigten Roller*",
+      "HELMET_SIZE": "Helmgröße",
+      "ADD_COMMENT": "Zusätzliche Kommentare:",
+      "EXP_QUESTION": "Hast du bereits Erfahrung mit dem Fahren von Elektrorollern?*",
+      "ANSW_YES": "Ja",
+      "ANSW_NO": "Nein",
+      "LICENSE_QUESTION": "Hast du einen gültigen Führerschein?*",
+      "SAFETY_QUESTION": "Hast du Fragen oder Bedenken bezüglich der Sicherheit oder Nutzung unserer Elektroroller?",
+      "SERVICE_QUESTION": "Wie hast du von unserem Elektroroller-Vermietungsservice erfahren?",
+      "PRIVACITY": "Ich habe die Datenschutzrichtlinie gelesen und akzeptiere sie *",
+      "AUTORIZATION": "Ich erlaube die Kontaktaufnahme per E-Mail oder anderen Mitteln zu kommerziellen Zwecken",
+      "SEND_BUTTON": "Senden"
+    },
+    "PREFOOTER_TEXT": "Bereit für ein spannendes Abenteuer? <strong>Ruf jetzt an unter +34 651 651 341</strong> und finde heraus, wie wir deine Träume wahr machen können. Warte nicht – dein nächstes Abenteuer wartet schon auf dich!",
+    "PREFOOTER_TEXT_2": "Frage nach unseren Reservierungspunkten per WhatsApp"
+  },
+
+  "FAQS_PAGE": {
+    "AUTONOMY": {
+      "QUESTION": "<strong>Wie viel Reichweite haben sie?</strong>",
+      "ANSWER": "Zwischen 60 und 70 Kilometern Gesamtreichweite mit einer Person mittleren Gewichts. Das reicht aus, um Städte wie Las Palmas oder Maspalomas zu erkunden und nahegelegene Gemeinden wie Mogán oder Santa Lucía im Süden der Insel oder Telde, Santa Brígida, San Mateo, Teror, Tejeda oder Arucas von der Hauptstadt der Insel aus zu erreichen."
+    },
+    "RECHARGE": {
+      "QUESTION": "<strong>Wie kann ich die Batterien aufladen?</strong>",
+      "ANSWER": "Unsere Roller haben 2 Batterien mit jeweils 30-35 km Reichweite. Sie sind herausnehmbar und können an jeder herkömmlichen Steckdose aufgeladen werden. 80 % der Batterie laden in 3 Stunden, und die restlichen 20 % benötigen zusätzliche 2-3 Stunden, je nach Entladungsgrad. Unsere Ladegeräte zeigen ein rotes Licht beim Laden und ein grünes, wenn die Batterie vollständig geladen ist. Sie können das Ladegerät angeschlossen lassen, wenn die Anzeige grün ist.",
+      "RECOMMENDATIONS": "Wenn Sie zu Ihrem Hotel/Apartment mit beiden entladenen Batterien zurückkehren und sicherstellen möchten, dass sie am nächsten Tag vollständig geladen sind, laden Sie die weniger entladene Batterie vor dem Schlafen auf und wechseln Sie dann zur stärker entladenen. Am Morgen, wenn die erste Batterie nicht fertig ist, können Sie zurückwechseln, und sie wird vollständig aufgeladen, während Sie frühstücken und sich fertig machen."
+    },
+    "EXPERIENCE": {
+      "QUESTION": "<strong>Benötige ich Erfahrung im Umgang mit Rollern oder Motorrädern?</strong>",
+      "ANSWER": "Unsere Roller sind sehr einfach zu fahren, und es ist keine vorherige Erfahrung mit motorisierten Zweirädern erforderlich."
+    },
+    "LICENSE": {
+      "QUESTION": "<strong>Welche Lizenz benötige ich?</strong>",
+      "ANSWER": "Unsere Elektroscooter haben eine Leistung, die mit einem 50-ccm-Motor vergleichbar ist, sodass sie mit den Lizenzen AM, B oder höher gefahren werden können."
+    },
+    "MINOR": {
+      "QUESTION": "<strong>Kann ich diese Motorräder fahren, wenn ich minderjährig bin?</strong>",
+      "ANSWER": "Du kannst unsere Motorräder ab 16 Jahren fahren, wenn du bereits eine AM-Lizenz hast und von einem Erwachsenen begleitet wirst, der ebenfalls den Vertrag unterschreibt. Andernfalls kann die Kaution für Minderjährige unter 18 Jahren auf bis zu 400 € steigen."
+    },
+    "PASSENGER": {
+      "QUESTION": "<strong>Kann ich einen Beifahrer mitnehmen?</strong>",
+      "ANSWER": "Ja, unsere Motorräder sind dafür ausgelegt, mit einem Beifahrer gefahren zu werden."
+    },
+    "INSURANCE": {
+      "QUESTION": "<strong>Deckt die Versicherung nur einen Fahrer oder mehrere Fahrer?</strong>",
+      "ANSWER": "Die Versicherung deckt mehrere Fahrer, solange sie im Mietvertrag aufgeführt sind. Sie deckt auch den Beifahrer und Dritte."
+    },
+    "PRICE": {
+      "QUESTION": "<strong>Ist der Preis verhandelbar?</strong>",
+      "ANSWER": "Nein, aber wir bieten ermäßigte Preise und Rabatte je nach Mietdauer an. Kontaktiere uns gerne ohne Verpflichtung unter +34 651 651 341."
+    },
+    "RESIDENT_DISCOUNT": {
+      "QUESTION": "<strong>Gibt es einen reduzierten Tarif für Einheimische?</strong>",
+      "ANSWER": "Ja, kontaktiere uns gerne ohne Verpflichtung unter +34 651 651 341."
+    },
+    "BATTERY": {
+      "QUESTION": "<strong>Was passiert, wenn ich mitten im Nirgendwo ohne Batterie stehe?</strong>",
+      "ANSWER": "Unsere Roller haben 2 Batterien mit 30-35 km Reichweite (für Paare mit 140-150 kg). Es hängt auch von deinem Fahrstil und der Art der Straße ab. Wenn du ohne Energie dastehst, bringen wir dir eine geladene Batterie für einen Aufpreis von 60€."
+    },
+    "EMERGENCY": {
+      "QUESTION": "<strong>Beinhaltet es einen Notfallservice bei Panne?</strong>",
+      "ANSWER": "Natürlich, im Falle eines technischen Ausfalls werden wir dich auf der Straße unterstützen, indem wir dir einen anderen Roller zur Verfügung stellen oder das Problem beheben."
+    },
+    "COLOR": {
+      "QUESTION": "<strong>Kann ich die Farbe des Rollers wählen?</strong>",
+      "ANSWER": "Ja, je nach Lagerbestand können wir Roller in verschiedenen Farben anbieten (Hellblau, Gelb und Weiß, Rot und Weiß, Türkisgrün oder Grau)."
+    },
+    "ANTI_THEFT": {
+      "QUESTION": "<strong>Haben die Roller ein Diebstahlschutzsystem?</strong>",
+      "ANSWER": "Ja, unsere Roller haben Front- und Hinterrad-Sperren mit Alarm. Es wird immer empfohlen, sie zu benutzen."
+    },
+    "DAMAGE": {
+      "QUESTION": "<strong>Was passiert, wenn der Roller während der Mietdauer beschädigt wird oder die Helme gestohlen werden?</strong>",
+      "ANSWER": "Wenn er zum Beispiel beim Parken fällt, sind die Schäden durch die Kaution bis zu einem Höchstbetrag von 130€ abgedeckt, solange keine Absicht oder böswillige Handlung vorliegt."
+    },
+    "PARKING": {
+      "QUESTION": "<strong>Wo kann ich den Roller parken?</strong>",
+      "ANSWER": "Du kannst in jedem Motorradparkplatz parken, der mit Blau-, Grün- oder Weißmarkierungen versehen ist, ohne Kosten, wenn verfügbar. Wenn nicht, kannst du dort parken, wo auch Autos parken, und darauf achten, dass genug Platz für das Manövrieren der Autos bleibt. Parke niemals auf dem Gehweg oder in nicht ausgewiesenen Bereichen."
+    }
+  },
+
+  "LEGAL_ADVISE_PAGE": {
+    "TITLE": "RECHTLICHER HINWEIS",
+    "TEXT1": "Der Eigentümer dieser Website ist <strong>Motion Rent and Fun</strong>, mit N.I.F. B13800552, mit Adresse in <strong>Calle Tiziano, 37 - Tafira (35017 LAS PALMAS).</strong>",
+    "TEXT2": "Der Zugriff auf die Website von <strong>Motion Rent and Fun</strong> ist <strong>kostenlos.</strong> Sämtliche Inhalte sind geistiges Eigentum von <strong>Motion Rent and Fun.</strong> Jede Nutzung derselben, die gegen die Regeln zum geistigen Eigentum verstößt, wird gemäß der geltenden Gesetzgebung strafrechtlich verfolgt. "
+  },
+
+  "PRIVACY_PAGE": {
+    "SECTION_TITLE": "VERWENDUNG UND VERARBEITUNG PERSONENBEZOGENER DATEN",
+    "INTRO_TEXT": "Wir informieren Sie, dass die personenbezogenen Daten, die möglicherweise über diese Website bereitgestellt werden, sowie die, die im Rahmen Ihrer rechtlichen Beziehung zu dieser Einrichtung in Zukunft bereitgestellt werden könnten, in unsere Datenbank aufgenommen werden.",
+    "INFORMATION_TITLE": "Informationen zum Datenschutz lauten wie folgt:",
+    "RESPONSIBLE_TITLE": "1-<strong>Verantwortlicher für die Verarbeitung:</strong>",
+    "RESPONSIBLE_TEXT": "Wir sind für die im entsprechenden Formular erhobenen Daten verantwortlich.",
+    "NEED_TITLE": "2-<strong>Notwendigkeit der Verarbeitung:</strong>",
+    "NEED_TEXT": "Die Übermittlung Ihrer Daten über das entsprechende Formular ist obligatorisch, damit wir Sie kontaktieren können.",
+    "PURPOSE_TITLE": "3-<strong>Zwecke und Rechtsgrundlage der Verarbeitung:</strong>",
+    "PURPOSE_TEXT_1": "Um Dienstleistungen oder Produkte, die Sie anfordern, zu verwalten, bereitzustellen oder zu erleichtern und gegebenenfalls Verträge zu erfüllen und auszuführen, um Ihre Präferenzen besser zu verstehen und Dienstleistungen an Ihre Bedürfnisse anzupassen.",
+    "PURPOSE_TEXT_2": "Um Ihnen per Post, E-Mail und anderen gleichwertigen elektronischen Kommunikationsmitteln kommerzielle und Werbemitteilungen über unsere Produkte und/oder Dienstleistungen zu senden.",
+    "RECIPIENTS_TITLE": "4-<strong>Empfänger:</strong>",
+    "RECIPIENTS_TEXT": "Wir arbeiten mit Dienstleistern wie Wartung und Hosting über Datenverarbeitungsverträge zusammen, um die angegebenen Verarbeitungszwecke zu unterstützen.",
+    "RETENTION_TITLE": "5-<strong>Aufbewahrungsfrist für Daten:</strong>",
+    "RETENTION_TEXT": "Wir bewahren Ihre Daten auf, solange die Verarbeitung andauert und Sie keine Löschung beantragen.",
+    "RIGHTS_TITLE": "6-<strong>Rechte:</strong>",
+    "RIGHTS_TEXT_1": "Sie können die Rechte auf Zugang, Berichtigung, Löschung, Einschränkung der Verarbeitung, Widerspruch, Übertragbarkeit und das Recht, nicht ausschließlich einer auf automatisierter Verarbeitung beruhenden Entscheidung unterworfen zu sein, ausüben.",
+    "RIGHTS_TEXT_2": "Sie können Ihre Zustimmung rückwirkend widerrufen oder der Zusendung kommerzieller Werbemitteilungen per E-Mail und anderen gleichwertigen elektronischen Mitteln widersprechen, indem Sie eine schriftliche Mitteilung an die im Impressum angegebene Adresse senden.",
+    "RIGHTS_TEXT_3": "Sie haben auch das Recht, bei der Aufsichtsbehörde, in Spanien die spanische Datenschutzbehörde, eine Beschwerde einzureichen.",
+    "POLICY_CHANGE_TITLE": "7-<strong>Änderungen der Datenschutzrichtlinie:</strong>",
+    "POLICY_CHANGE_TEXT": "Wir behalten uns das Recht vor, unsere Datenschutzrichtlinie gemäß unseren eigenen Kriterien oder aufgrund von Änderungen der Vorschriften, Gesetze oder Rechtsprechung zu ändern. Die Nutzung der Website nach solchen Änderungen gilt als Zustimmung zu diesen.",
+    "LAW_TITLE": "8-<strong>Anwendbares Recht:</strong>",
+    "LAW_TEXT": "Alle Streitigkeiten, die sich aus der Nutzung dieser Website ergeben, unterliegen spanischem Recht, werden nach spanischem Recht ausgelegt und entschieden."
+  }
+}

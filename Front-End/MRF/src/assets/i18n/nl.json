@@ -1,0 +1,509 @@
+{
+  "GLOBAL": {
+    "SEARCH": "Zoek naar",
+    "SEARCH_TITLE": "Zoek naar",
+    "NOT_FOUND": "Niet gevonden"
+  },
+
+  "MENU": {
+    "SERVICES": "DIENSTEN",
+    "TOURS": "Rondleidingen",
+    "RENTALS": "Verhuur"
+  },
+
+  "FOOTER": {
+    "CONTACT_US": "NEEM CONTACT MET ONS OP",
+
+    "CONTACT_INFO": {
+      "PHONE": "+ 34 651 651 341",
+      "MAIL": "info@motionrentandfun.com",
+      "ADRESS": "Calle Tiziano 37, 35017 Las Palmas de Gran Canaria",
+      "ADRESS_2": "(Las Palmas)"
+    },
+
+    "LEGAL_LINKS": "JURIDISCHE LINKS",
+
+    "FAQS": "FAQ's",
+
+    "LEGAL_ADVISE": "Juridische kennisgeving",
+
+    "PRIVACITY": "Privacybeleid",
+
+    "COOKIES": "Cookiebeleid",
+
+    "ACCESS": "Toegankelijkheidsverklaring"
+  },
+
+  "HOME_PAGE": {
+    "PAGE_LABEL": "BEGIN",
+
+    "CARROUSEL": {
+      "LINE_1": "<strong>Ontdek Gran Canaria</strong> en duurzame mobiliteit met <strong>Motion Rent and Fun</strong>",
+      "LINE_2": "Geniet van een onvergetelijke ervaring met onze <strong>100% elektrische</strong> Fauro Venice-scooters"
+    },
+
+    "ITEM_BATTERY": {
+      "LINE_1": "100%",
+      "LINE_2": "elektrisch"
+    },
+
+    "ITEM_LICENSE": {
+      "LINE_1": "Licentie",
+      "LINE_2": "AM, B of hoger"
+    },
+
+    "ITEM_HOTEL": {
+      "LINE_1": "Levering",
+      "LINE_2": "in uw hotel"
+    },
+
+    "ITEM_KM": {
+      "LINE_1": "60 - 70 km",
+      "LINE_2": "van autonomie"
+    },
+
+    "TEXT_EXPERIENCE_DESCRIPTION": "<strong>Geniet van een onvergetelijke ervaring</strong> met de <strong>100% elektrische motorfietsen van Motion Rent and Fun</strong>, de meerderheid van de mensen die ze uitproberen bevestigt dat ze <strong>zeer gemakkelijk te besturen</strong> zijn strong>, gewoon <strong>accelereren en remmen</strong>, beperkt tot <strong>45 km/u</strong>, ze kunnen worden bestuurd door iedereen met een <strong>AM-, B- of hoger rijbewijs</strong> en een unieke ervaring, zonder het gevoel te hebben trillingen, lawaai of dampen zijn het perfecte voertuig om door de meest verzadigde stedelijke centra te reizen, maar ook om de kustwegen te bezoeken of de wegen die ons naar de bergen en pittoreske stadjes in het binnenland van het eiland brengen.",
+
+    "TEXT_CHARGER": "Wij bieden u de <strong>oplader die u in elk conventioneel stopcontact kunt gebruiken en twee verwijderbare batterijen met een autonomie van 30-35 km per batterij.</strong>",
+
+    "TEXT_DESCRIPTION_AS_TOY": "<strong>'Ze zien eruit als speelgoed, ze zijn zo mooi, maar ze zijn heel functioneel, en reizen met dat gemak, in stilte, is geweldig, we genieten er echt van'<strong>",
+
+    "TEXT_HOMOLOGATION": "Klanten merken vaak op dat ze, om <strong>goedgekeurd te worden door de EU (Euro5, geen uitstoot)</strong>, in feite moeten voldoen aan de meest veeleisende veiligheidsnormen wereldwijd.",
+
+    "TEXT_BATTERY": "<strong>100% draagbare accu's.</strong> U kunt moeiteloos één of beide accu's verwijderen die bij onze motorfietsen zijn meegeleverd. Het is mogelijk om één van de batterijen op te laden terwijl je de andere gebruikt, of beide op te laden en maximale autonomie te hebben.",
+
+    "1DAY": "1DAG",
+
+    "2DAYS": "2DAGEN",
+
+    "3DAYS": "3DAGEN",
+
+    "1DAY_SUBTEXT": "50 EUROS",
+
+    "2DAY_SUBTEXT": "45 EUROS",
+
+    "3DAY_SUBTEXT": "40 EUROS",
+
+    "PRICE_PER_DAY": "*Prijs per dag.",
+
+    "TAX_1": "Helmen, verzekering en belastingen inbegrepen",
+
+    "TAX_2": "Borg € 130 (contant of met kaart)",
+
+    "BOOKING_INFO": "Reserveringen en informatie:",
+
+    "WHATSAPP_ITEM": {
+      "LINE_1": "Schrijf ons per",
+      "LINE_2": "Whatsapp"
+    },
+
+    "PHONE_ITEM": {
+      "LINE_1": "Bel ons",
+      "LINE_2": "+34 651 651 341"
+    },
+
+    "LIST_ITEM": {
+      "LINE_1": " Vul een in",
+      "LINE_2": "Formulier"
+    },
+
+    "PREFOOTER_TEXT": "Profiteer van de privileges van een <strong>100% elektrische scooter</strong> en je hoeft niet aan benzinestations te denken, je hebt altijd een conventioneel stopcontact bij de hand en het verbruikt energie zoals het opladen van een mobiele telefoon",
+
+    "PREFOOTER_TEXT_2": "Vraag naar onze reserveringspunten via WhatsApp"
+  },
+
+  "OUR_MISSION_PAGE": {
+    "PAGE_LABEL": "ONZE MISSIE",
+
+    "CARROUSEL": {
+      "LINE_1": "We werken aan het bevorderen van betrouwbare en efficiënte <strong>stedelijke mobiliteit</strong> op Gran Canaria</strong>",
+      "LINE_2": "Uw partner in <strong>duurzame mobiliteit</strong> op <strong>Gran Canaria</strong>",
+      "LINE_3": "Verhuur van <strong>Elektrische motorfietsen</strong> op <strong>Gran Canaria</strong>"
+    },
+
+    "OUR_MISSION": "ONZE MISSIE",
+
+    "OUR_MISSION_DESCRIPTION_TEXT": {
+      "TEXT_1": "Bij <strong>Motion Rent and Fun</strong> willen we de vernieuwing van een mobiel park promoten op toch al dichtbevolkte eilanden die elk jaar een groter aantal bezoekers en nieuwe bewoners ontvangen. De manier om aan deze behoefte tegemoet te komen is door <strong>efficiëntere, zuinigere en duurzamere voertuigen</strong> op de markt te brengen, die, hoewel ze mobiliteit bieden, zorgen voor een <strong>onvergetelijk avontuur.</strong>",
+      "TEXT_2": "Onze steden en gemeenten verlagen steeds vaker de snelheidslimieten, maken ook bus- en taxibanen voor bromfietsen mogelijk en stellen meer motorruimtes beschikbaar voor inwoners en bezoekers, en zijn bovendien gratis, zelfs in blauwe of groene zones.",
+      "TEXT_3": "Bespaar tijd en geld met onze <strong>100% elektrische</strong> scooters terwijl u werkt of geniet van uw vakantie op het eiland. Wist u dat er van Las Palmas de Gran Canaria tot Cruz de Tejeda ongeveer 25 km is? Is dat de reden waarom ze ons het miniatuurcontinent noemen? Om deze reden zijn wij van mening dat een van onze motorfietsen de perfecte manier is om dit eiland op een duurzamere en respectvollere manier te leren kennen.",
+      "TEXT_4": "Bij <strong>Motion Rent and Fun</strong> werken we eraan om onze klanten de producten aan te bieden van <strong>Fauro Motor Company</strong>, die assembleren met onderdelen die zijn vervaardigd met Europese kwaliteit, allemaal gegarandeerd en goedgekeurd."
+    },
+
+    "PREFOOTER_TEXT": "Ontdek alle voordelen van onze producten, niet alleen voor u, maar voor de samenleving in het algemeen, aangezien het zowel energie- als economische besparingen zal opleveren, naast het bijdragen aan duurzamere stedelijke en interstedelijke mobiliteit en het bijdragen aan een stillere omgeving.",
+    "PREFOOTER_TEXT_2": "Vraag naar onze reserveringspunten via WhatsApp"
+  },
+
+  "RENTALS_PAGE": {
+    "PAGE_LABEL": "VERHUUR",
+    "CARROUSEL": {
+      "LINE_1": "Wij zetten ons in voor een betrouwbare en efficiënte <strong>stedelijke mobiliteit</strong> op <strong>Gran Canaria</strong>.",
+      "LINE_2": "Jouw partner in <strong>duurzame mobiliteit op Gran Canaria</strong>.",
+      "LINE_3": "<strong>Elektrische scooters</strong> huren op Gran Canaria met <strong>Motion Rent and Fun</strong>."
+    },
+    "SCOOTER": "Geniet van een <strong>{{model}}</strong> scooter.",
+    "LICENSE": "Rijbewijs AM, B of hoger vereist.",
+    "SERVICE_TEXT": "Momenteel bieden wij onze dagverhuurservice aan voor ons meest vintage en charmante model: onze Fauro Venice. Onze service is een 'delivery service', wat betekent dat we het voertuig naar je accommodatie brengen. Het is een 100% elektrische scooter, vergelijkbaar met een 50cc, waarvoor een rijbewijs AM, B of hoger vereist is. We voorzien je van helmen, 2 verwijderbare LG lithium-ionbatterijen (elk 7,8 kg) met een onafhankelijk oplaadindicatiesysteem, met een bereik van 30–35 km per batterij. De scooter heeft een alarmsysteem, keyless start en een oplader waarmee je de batterijen op elk standaard stopcontact kunt opladen.",
+    "MOTORIZATION_TEXT": "Elektrische aandrijving is hier om te blijven. Doordat de elektromotoren in het achterwiel zijn geïntegreerd, biedt dit extra stabiliteit door het extra gewicht van de motor. Samen met remmen die ruim boven de wettelijke normen presteren, maakt dit onze voertuigen perfect voor beginnende scooterrijders die gewoon rustig door onze straten willen rijden – zonder gedoe, gewoon gas geven en remmen, zonder verbrandingen of olievlekken, zonder ‘slechte uitlaatgassen’, zonder trillingen en zonder lawaai!",
+    "ISLANDS_TEXT": "Onze eilanden, dichtbevolkt en met weinig parkeergelegenheid in veel gebieden, hebben behoefte aan verlichting van het verkeer in de steden om ze leefbaarder te maken.",
+    "RENT_LINE_1": "Levering aan huis in het noordoosten en zuiden van Gran Canaria. Informeer naar onze leveringspunten.",
+    "RENT_TITLE": "VERHUUR",
+    "RENT_BUTTON": "HUUR NU",
+    "RENT_SCOOTER": "Huur nu je <strong>{{model}}</strong>",
+    "INCLUDE": "<strong>Inclusief:</strong> 2 helmen – 2 batterijen – verzekering – belastingen",
+    "DELIVERY": "<strong>LEVERING AAN HUIS</strong>",
+    "ELECTRIC": "100% elektrisch",
+    "NOISE": "Geluidsloos",
+    "POLLUTION": "Emissievrij",
+    "VIBRATION": "Trillingsvrij",
+    "BURN": "Geen verbrandingsgevaar",
+    "MORE_INFO": "Meer info",
+    "SHOW_LESS": "Minder tonen",
+    "SHOW_ELECTRIC": "100% elektrisch, vergelijkbaar met 50cc",
+    "SHOW_BATTERY": "2 verwijderbare batterijen met oplaadindicator (7,8 kg per batterij)",
+    "SHOW_AUTONOMY": "Bereik van 30–35 km per batterij",
+    "RENT": {
+      "LINE_1": "Borg van <strong>{{price}}</strong> contant of met kaart"
+    },
+    "PREFOOTER_TEXT": "Profiteer van de voordelen van het huren van een <strong>100% elektrische scooter</strong> in Maspalomas en vergeet tankstations – een gewoon stopcontact is altijd dichtbij, en het verbruik is vergelijkbaar met het opladen van een mobiele telefoon.",
+    "PREFOOTER_TEXT_2": "Vraag naar onze reserveringspunten via WhatsApp."
+  },
+
+  "TOURS_PAGE": {
+    "PAGE_LABEL": "TOURS",
+    "CARROUSEL": {
+      "LINE_1": "Wij zetten ons in voor een betrouwbare en efficiënte <strong>stedelijke mobiliteit</strong> op <strong>Gran Canaria</strong>.",
+      "LINE_2": "Jouw partner in <strong>duurzame mobiliteit op Gran Canaria</strong>.",
+      "LINE_3": "<strong>Elektrische scooters</strong> huren op Gran Canaria met <strong>Motion Rent and Fun</strong>."
+    },
+    "TITLE": "SCOOTERTOURS",
+    "TEXT_1": "Bij Motion Rent and Fun nodigen we je uit om onze website te bezoeken en kennis te maken met onze nieuwste diensten, zoals de vier tours die al beschikbaar zijn.",
+    "TEXT_2": "Zoals je weet leveren wij onze elektrische scooters aan de accommodaties van onze klanten. Naast de optie om te huren voor dagen of weken, bieden we nu ook de volgende begeleide tours aan met officiële gidsen in het Engels en Spaans.",
+    "PANORAMIC_TOUR_LAS_PALMAS": {
+      "NAME": "Panoramische tour – Las Palmas",
+      "DURATION": "<strong>Duur: </strong> 6 uur",
+      "PRICE": "<strong>Prijs: </strong>Vanaf €75 / persoon",
+      "STOPS": {
+        "NAME": "<strong>Belangrijkste haltes: </strong>",
+        "STOP_1": "Torre Woermann",
+        "STOP_2": "Vegueta",
+        "STOP_3": "Uitzichtpunten zoals Las Coloradas, Altavista en meer."
+      },
+      "EXTRA": {
+        "NAME": "<strong>Extra’s: </strong>",
+        "EXTRA_1": "<strong>Optionele lunch: </strong> +€15",
+        "EXTRA_2": "<strong>Stellen: </strong> Vanaf €120"
+      },
+      "IDEAL": "<strong> Ideaal voor: </strong>liefhebbers van geschiedenis en panoramische uitzichten.",
+      "DESCRIPTION": "Deze route biedt een volledig overzicht van Las Palmas de Gran Canaria en een breed perspectief op de stedelijke ontwikkeling van de stad, van haar oorsprong in de wijk Vegueta tot het heden. Dankzij het gebruik van een elektrische scooter, die veel gemak en comfort biedt, duiken we in de essentie van deze stad en bezoeken we verschillende uitkijkpunten die meer dan vijf eeuwen geschiedenis laten zien. Je zult dit moment vastleggen op een Fauro Venice, met deze Atlantische stad als achtergrond – de meest bevolkte van de Canarische Eilanden."
+    },
+    "PANORAMIC_TOUR_AYAGAURES": {
+      "NAME": "Panoramische tour – Ayagaures",
+      "DURATION": "<strong>Duur: </strong> 4 uur",
+      "PRICE": "<strong>Prijs: </strong>Vanaf €75 / persoon",
+      "STOPS": {
+        "NAME": "<strong>Belangrijkste haltes: </strong>",
+        "STOP_1": "Stuwmeer van Ayagaures",
+        "STOP_2": "Lokale flora en fauna",
+        "STOP_3": "Uitzicht op Palmitos Park en de duinen van Maspalomas"
+      },
+      "IDEAL": "<strong> Ideaal voor: </strong>mensen die rust en natuur zoeken",
+      "DESCRIPTION": "Dit is een begeleide tour met onze fantastische Fauro Venice elektrische scooters, die zeer eenvoudig te besturen en stabiel zijn. We vertrekken vanuit Maspalomas richting het binnenland van het eiland, zonder lawaai, zonder verbrandingen, zonder trillingen of slechte uitlaatgassen, en bezoeken het stuwmeer van Ayagaures. Daar maken we een wandeling in de prachtige natuurlijke omgeving, leggen uit hoe het water wordt opgeslagen en noemen enkele lokale en vaak endemische dier- en plantensoorten. We stijgen op naar het uitkijkpunt Ayagaures, vanwaar we Palmitos Park van bovenaf zien, en keren terug met panoramisch uitzicht op de duinen van Maspalomas – een ervaring die je niet snel vergeet."
+    },
+    "TOUR_LAS_PLAYAS": {
+      "NAME": "Strandtour",
+      "DURATION": "<strong>Duur: </strong> 5 uur",
+      "PRICE": "<strong>Prijs: </strong>Vanaf €75 / persoon",
+      "STOPS": {
+        "NAME": "<strong>Bezochte stranden: </strong>",
+        "STOP_1": "Duinen van Maspalomas",
+        "STOP_2": "Playa del Inglés, Meloneras en Amadores",
+        "STOP_3": "Archeologische vindplaats El Llanillo"
+      },
+      "IDEAL": "<strong> Ideaal voor: </strong>genieten van de beste stranden en cultuur.",
+      "DESCRIPTION": "We beginnen bij Playa del Inglés met het beste uitzicht op de duinen van Maspalomas, bezoeken vervolgens het natuurgebied La Charca de Maspalomas, gaan verder naar Playa de Meloneras en nemen daarna de kustweg GC-500 richting El Pajar, waar we een pauze nemen en de archeologische vindplaats El Llanillo bezoeken. In El Pajar kunnen we iets drinken voordat we verdergaan. Vervolgens bezoeken we Anfi del Mar en daarna Amadores, waar we tijd hebben om te zwemmen of iets te drinken op een van de vele terrassen, voordat we terugkeren naar het vertrekpunt, Playa del Inglés."
+    },
+    "COMBO": {
+      "NAME": "Combinatie: Stranden + zonsondergang op een jacht",
+      "DURATION": "<strong>Duur: </strong> 6 uur (scootertour + 2 uur op een jacht)",
+      "PRICE": "<strong>Prijs: </strong>Vanaf €125 / persoon",
+      "STOPS": {
+        "NAME": "<strong>Inclusief: </strong>",
+        "STOP_1": "Tour langs de stranden van Maspalomas en Mogán",
+        "STOP_2": "Privé jachtuitstap bij zonsondergang",
+        "STOP_3": "Tijd om te zwemmen en ontspannen"
+      }
+    },
+    "PREFOOTER_TEXT": "Profiteer van de voordelen van het huren van een <strong>100% elektrische scooter</strong> in Maspalomas en vergeet tankstations – een gewoon stopcontact is altijd dichtbij, en het verbruik is vergelijkbaar met het opladen van een mobiele telefoon.",
+    "PREFOOTER_TEXT_2": "Vraag naar onze reserveringspunten via WhatsApp."
+  },
+
+  "SALES_PAGE": {
+    "PAGE_LABEL": "VERKOOP",
+
+    "CARROUSEL": {
+      "LINE_1": "Profiteer van onze super <strong>aanbiedingen op elektrische motorfietsen van het merk Fauro <strong>kilometer nul</strong>",
+      "LINE_2": "Maak kennis met onze <strong>Fun en Horwin CR6</strong> modellen, gelijkwaardig aan <strong>50 en 125 cc</strong>, en mis deze kans niet"
+    },
+
+    "KM_0": "NUL KILOMETER",
+
+    "KM_TEXT": "Onze nul kilometer 100% elektrische motorfietsen hebben een minimale kilometerstand en uiteraard inclusief garantie en after-sales service. En dit alles voor één enkele prijs! Probeer ze vrijblijvend en neem uw twijfels weg door te bellen of schrijven naar +34 651 651 341.",
+
+    "FAURO_CR6": {
+      "NAME": "FAURO HORWIN CR6",
+
+      "DESCRIPTION": "De perfecte combinatie van stijl en prestatie. De Horwin biedt superieure vermogensafgifte. Komt overeen met 125 cc en zorgt ervoor dat u van de weg kunt genieten.",
+
+      "PRICE_TAG": "Voor alleen",
+
+      "SPEED": "95 km/u maximumsnelheid (beperkt)",
+
+      "AUTONOMY": "9O-100 kilometer autonomie",
+
+      "POWER": "6,2 kW motorvermogen",
+
+      "BATTERY": "Lithiumbatterij (72V55AH)",
+
+      "CHARGE": "3 uur oplaadtijd",
+
+      "CYCLE": "2.000 oplaadcycli",
+
+      "TECH": {
+        "BREAKS": "Remmen: D 100/80–17, T 120/80–17",
+
+        "TYRES": "Banden: D&T:120/70-12",
+
+        "WEIGHT": "Totaal gewicht: 134 kilo",
+
+        "MAX_WEIGHT": "Maximale belasting: 170 kilo",
+
+        "SIZE": "Afmetingen: 204×77×112 cm",
+
+        "CHARGER": "Oplader: 220 V / 15 A",
+
+        "TENSION": "Spanning: 110V/220V 50-60Hz",
+
+        "CONTROLLER": "Regelaar: 72V70A",
+
+        "MAX_INCLINATION": "Maximale helling: 20°",
+
+        "MAX_PAR": "296 Nm"
+      }
+    },
+    "FAURO_FUN": {
+      "NAME": "FAURO FUN",
+
+      "DESCRIPTION": "Zonder twijfel de beste manier om rond te reizen. Wendbaar in de stad, maar legt ook comfortabel lange afstanden af. Gelijk aan een bromfiets van 50 cc.",
+
+      "PRICE_TAG": "Voor alleen",
+
+      "SPEED": "45 km/u. maximale snelheid (beperkt)",
+
+      "AUTONOMY": "80-90 kilometer autonomie",
+
+      "POWER": "3.000 W motorvermogen",
+
+      "BATTERY": "Verwijderbare lithiumbatterij (72V40AH)",
+
+      "CHARGE": "6-8 uur oplaadtijd",
+
+      "CYCLE": "2.000 oplaadcycli",
+
+      "TECH": {
+        "BREAKS": "Remmen: D&T-schijfremmen",
+
+        "TYRES": "Banden: D&T:120/70-12",
+
+        "WEIGHT": "Totaal gewicht: 76 kg. (zonder batterij)",
+
+        "MAX_WEIGHT": "Maximale belasting: 150 kilo",
+
+        "SIZE": "Afmetingen: 191 x 80 x 115 cm",
+
+        "CHARGER": "Oplader: 72V8A",
+
+        "TENSION": "Spanning: 110V/220V 50-60Hz",
+
+        "CONTROLLER": "Regelaar: 72V70A",
+
+        "MAX_INCLINATION": "Maximale helling: 30°"
+      }
+    },
+
+    "TEST": "Probeer ze vrijblijvend of vraag meer informatie aan:",
+
+    "WHATSAPP_ITEM": {
+      "LINE_1": "Schrijf ons per",
+      "LINE_2": "Whatsapp"
+    },
+
+    "PHONE_ITEM": {
+      "LINE_1": "Bel ons"
+    },
+
+    "LICENSE": "Berijdbaar met ",
+
+    "LICENSE_TYPE_CR6": "Licentie B",
+
+    "LICENSE_TYPE_FUN": "AM-licentie",
+
+    "PREFOOTER_TEXT": "Profiteer van de privileges van een <strong>100% elektrische scooter</strong> en je hoeft niet aan benzinestations te denken, je hebt altijd een conventioneel stopcontact bij de hand en het verbruikt energie zoals het opladen van een mobiele telefoon",
+
+    "PREFOOTER_TEXT_2": "Vraag naar onze reserveringspunten via WhatsApp"
+  },
+
+  "CONTACT_PAGE": {
+    "VALIDATION": {
+      "REQUIRED_NAME": "Naam is verplicht",
+      "REQUIRED_EMAIL": "E-mailadres is verplicht",
+      "INVALID_EMAIL": "Moet een geldig e-mailadres zijn",
+      "MAX_MESSAGE": "Maximaal 200 tekens",
+      "AUTHORIZE_REQUIRED": "U moet toestemming geven voor contact om door te gaan"
+    },
+    "PAGE_LABEL": "CONTACT",
+    "CARROUSEL": {
+      "LINE_1": "Ontdek duurzame mobiliteit met <strong>Motion Rent and Fun</strong> op Gran Canaria"
+    },
+    "CONTACT": {
+      "TITLE": "Contactgegevens van Motion Rent and Fun",
+      "TEXT_1": "Als je contact met ons wilt opnemen voor meer informatie over onze spannende aanbiedingen of om een vrijblijvende offerte aan te vragen, vind je hier de contactgegevens van Motion Rent and Fun:",
+      "ADRESS": "Adres: Calle Tiziano 37, 35017 Las Palmas de Gran Canaria (Las Palmas)",
+      "PHONE": "Telefoon: +34 651 651 341",
+      "MAIL": "E-mail: info@motionrentandfun.com",
+      "TEXT_2": "ALS JE GEÏNTERESSEERD BENT IN EEN HUUR VAN 1 MAAND OF LANGER, VRAAG NAAR ONZE SPECIALE PRIJZEN VOOR INWONERS EN BEDRIJVEN.",
+      "MAP_ALT": "Kaart"
+    },
+    "CONTACT_FORM": {
+      "TITLE": "Contactformulier",
+      "FIELD": "'*' duidt verplichte velden aan",
+      "NAME": "Naam*",
+      "MAIL": "E-mail*",
+      "MESSAGE": "Bericht",
+      "MESSAGE_PLACEHOLDER": "Schrijf hier je bericht",
+      "PRIVACITY": "Ik heb het privacybeleid gelezen en ga akkoord *",
+      "CONTACT": "Ik geef toestemming om contact met mij op te nemen via e-mail of andere middelen voor commerciële doeleinden",
+      "CAPTCHA": "Ik ben een mens",
+      "SEND_BUTTON": "Versturen"
+    },
+    "RENTING_FORM": {
+      "TITLE": "Contactformulier – Verhuur van Elektrische Scooters",
+      "FIELD": "'*' duidt verplichte velden aan",
+      "NAME": "Naam*",
+      "SURNAME": "Achternaam",
+      "MAIL": "E-mail*",
+      "PHONE": "Telefoon",
+      "START_DATE": "Startdatum verhuur*",
+      "END_DATE": "Einddatum verhuur*",
+      "BIKE_NUM": "Aantal gewenste scooters*",
+      "HELMET_SIZE": "Helmmaat",
+      "ADD_COMMENT": "Aanvullende opmerkingen:",
+      "EXP_QUESTION": "Heb je eerder elektrische scooters bestuurd?*",
+      "ANSW_YES": "Ja",
+      "ANSW_NO": "Nee",
+      "LICENSE_QUESTION": "Heb je een geldig rijbewijs?*",
+      "SAFETY_QUESTION": "Heb je vragen of zorgen over de veiligheid of het gebruik van onze elektrische scooters?",
+      "SERVICE_QUESTION": "Hoe heb je gehoord over onze verhuurdienst voor elektrische scooters?",
+      "PRIVACITY": "Ik heb het privacybeleid gelezen en ga akkoord *",
+      "AUTORIZATION": "Ik geef toestemming om contact met mij op te nemen via e-mail of andere middelen voor commerciële doeleinden",
+      "SEND_BUTTON": "Versturen"
+    },
+    "PREFOOTER_TEXT": "Klaar om een spannend avontuur te plannen? <strong>Bel nu naar +34 651 651 341</strong> en ontdek hoe wij jouw droom werkelijkheid kunnen maken. Wacht niet langer – je volgende avontuur wacht op je!",
+    "PREFOOTER_TEXT_2": "Vraag via WhatsApp naar onze reserveringspunten"
+  },
+
+  "FAQS_PAGE": {
+    "AUTONOMY": {
+      "QUESTION": "<strong>Hoeveel autonomie hebben ze?</strong>",
+      "ANSWER": "Tussen 60 en 70 kilometer totale autonomie, met een persoon van gemiddeld gewicht. Dit is ruim voldoende om steden als Las Palmas of Maspalomas te bezoeken en om naar nabijgelegen gemeenten als Mogán of Santa Lucía te reizen, als je in het zuiden van het eiland bent of Telde, Santa Brígida, San Mateo, Teror, Tejeda of Arucas , als je uit de hoofdstad van het eiland gaat."
+    },
+    "RECHARGE": {
+      "QUESTION": "<strong>Hoe kan ik de batterijen opladen?</strong>",
+      "ANSWER": "Onze scooters hebben 2 accu's van elk 30-35 km. Ze zijn afneembaar en u kunt ze bij elk conventioneel stopcontact opladen. 80% van de batterij wordt in 3 uur opgeladen en de resterende 20% in ongeveer 2-3 uur, afhankelijk van hoe ontladen deze is. Onze opladers hebben een rode indicator wanneer deze wordt opgeladen en een groene indicator wanneer deze volledig is opgeladen. Wanneer deze groen is, kunt u de oplader aangesloten laten.",
+      "RECOMMENDATIONS": "Als u bij uw hotel/appartement aankomt met beide batterijen leeg en u wilt er zeker van zijn dat beide de volgende dag volledig zijn opgeladen, dan kunt u de minst ontladen batterij aanzetten tot 'het slapen gaan' en dan overschakelen naar de meest ontladen batterij. Als de eerste 's ochtends nog niet klaar is, kun je hem terugzetten en wordt hij volledig opgeladen terwijl je ontbijt en je klaarmaakt om uit te gaan."
+    },
+    "EXPERIENCE": {
+      "QUESTION": "<strong>Moet ik ervaring hebben met het gebruik van scooters of motorfietsen?</strong>",
+      "ANSWER": "Onze scooters zijn heel gemakkelijk te besturen en het is niet nodig om eerdere ervaring te hebben met welk type tweewielig gemotoriseerd voertuig dan ook."
+    },
+    "LICENSE": {
+      "QUESTION": "<strong>Welk type licentie heb ik nodig?</strong>",
+      "ANSWER": "Onze elektrische scooters hebben een vermogen dat vergelijkbaar is met een 50 cc verbrandingsmotor en kunnen daarom worden bestuurd met AM-, B- of hogere rijbewijzen."
+    },
+    "MINOR": {
+      "QUESTION": "<strong>Kan ik als minderjarige op deze motorfietsen rijden?</strong>",
+      "ANSWER": "Je mag onze motorfietsen besturen vanaf 16 jaar als je al een AM-rijbewijs hebt en begeleid wordt door een volwassene die ook het contract tekent. Indien dit niet het geval is, kan de borg worden verhoogd tot maximaal € 400,- voor minderjarigen jonger dan 18 jaar."
+    },
+    "PASSENGER": {
+      "QUESTION": "<strong>Mag je een passagier vervoeren?</strong>",
+      "ANSWER": "Ja, onze motorfietsen zijn voorbereid om met een passagier te rijden."
+    },
+    "INSURANCE": {
+      "QUESTION": "<strong>Dekt de verzekering één bestuurder of meerdere?</strong>",
+      "ANSWER": "De verzekering dekt meerdere mogelijke bestuurders, maar deze moeten in het huurcontract worden vermeld. De verzekering dekt ook passagiers en derden."
+    },
+    "PRICE": {
+      "QUESTION": "<strong>Is de prijs bespreekbaar?</strong>",
+      "ANSWER": "Nee, maar we hebben verlaagde tarieven en aanbiedingen, afhankelijk van het aantal dagen. Vrijblijvend adviesgesprek door te bellen of schrijven naar +34 651 651 341."
+    },
+    "RESIDENT_DISCOUNT": {
+      "QUESTION": "<strong>Is er een verlaagd tarief voor bewoners?</strong>",
+      "ANSWER": "Ja, neem vrijblijvend contact met ons op door te bellen of schrijven naar +34 651 651 341."
+    },
+    "BATTERY": {
+      "QUESTION": "<strong>Wat gebeurt er als de batterij midden in het niets leeg raakt?</strong>",
+      "ANSWER": "Onze scooters hebben 2 accu's van elk 30-35 km (voor koppels van 140-150 kg), het zal altijd ook afhankelijk zijn van het soort rijgedrag of weg. Mocht u zonder stroom komen te zitten, dan zorgen wij voor een opgeladen batterij, dit kost u € 60 extra."
+    },
+    "EMERGENCY": {
+      "QUESTION": "<strong>Is er noodservice inbegrepen in geval van pech?</strong>",
+      "ANSWER": "Uiteraard helpen wij u bij een technische storing op weg door u een andere motorfiets ter beschikking te stellen of het betreffende probleem op te lossen."
+    },
+    "COLOR": {
+      "QUESTION": "<strong>Kan ik de kleur van de motorfiets kiezen?</strong>",
+      "ANSWER": "Ja, binnen de voorraadmogelijkheden die wij hebben, kunnen wij u scooters in verschillende kleuren aanbieden (lichtblauw, geel en wit, rood en wit, turkoois groen of grijs)."
+    },
+    "ANTI_THEFT": {
+      "QUESTION": "<strong>Hebben ze een antidiefstalsysteem?</strong>",
+      "ANSWER": "Ja, onze scooters hebben een voorwielslot, maar ook een achterwielslot met alarmset, het is altijd aan te raden om hier gebruik van te maken."
+    },
+    "DAMAGE": {
+      "QUESTION": "<strong>Wat gebeurt er als de motorfiets tijdens de huurperiode schade oploopt of onze helmen worden gestolen?</strong>",
+      "ANSWER": "Als we hem bijvoorbeeld laten vallen tijdens het parkeren, wordt deze schade gedekt door de borgsom met een maximum van € 130,-, zolang er geen sprake is van fraude."
+    },
+    "PARKING": {
+      "QUESTION": "<strong>Waar kan ik de motor parkeren?</strong>",
+      "ANSWER": "U kunt gratis parkeren op elke parkeerplaats voor motorfietsen, afgebakend in blauw, groen of wit. Als die er zijn, als die er niet zijn, kunt u parkeren waar de auto's staan, waarbij u altijd probeert afstand te houden om de uitgang van de parkeerplaats te manoeuvreren. auto's, hoe beter, zo niet tussen twee auto's. Nooit op de stoep of in gebieden die NIET als parkeerplaats zijn afgebakend."
+    }
+  },
+
+  "LEGAL_ADVISE_PAGE": {
+    "TITLE": "JURIDISCHE MEDEDELING",
+    "TEXT1": "De eigenaar van deze website is <strong>Motion Rent and Fun</strong>, met N.I.F. B13800552, met adres <strong>Calle Tiziano, 37 - Tafira (35017 LAS PALMAS).</strong>",
+    "TEXT2": "De toegang tot de <strong>Motion Rent and Fun</strong> website is <strong>gratis.</strong> Alle inhoud is het intellectuele eigendom van <strong>Motion Rent and Fun.</strong> Elk gebruik ervan Schendingen van de regelgeving op het gebied van intellectueel eigendom zullen worden vervolgd in overeenstemming met de huidige wetgeving."
+  },
+
+  "PRIVACY_PAGE": {
+    "SECTION_TITLE": "GEBRUIK EN VERWERKING VAN PERSOONSGEGEVENS",
+    "INTRO_TEXT": "Wij informeren u dat de persoonlijke gegevens die via deze website worden verstrekt, evenals de persoonlijke gegevens die u in de toekomst mogelijk verstrekt in het kader van uw juridische relatie met deze entiteit, in onze database zullen worden opgenomen.",
+    "INFORMATION_TITLE": "De volgende punten met betrekking tot gegevensbescherming worden gerapporteerd:",
+    "RESPONSIBLE_TITLE": "1-<strong>Verantwoordelijk voor de behandeling:</strong>",
+    "RESPONSIBLE_TEXT": "Wij zijn verantwoordelijk voor de gegevens die in het betreffende formulier worden verzameld.",
+    "NEED_TITLE": "2-<strong>Behoefte aan behandeling:</strong>",
+    "NEED_TEXT": "De mededeling van uw gegevens via het bijbehorende formulier is verplicht, zodat wij contact met u kunnen opnemen.",
+    "PURPOSE_TITLE": "3-<strong>Doelen van de behandeling en legitimatie van de behandeling:</strong>",
+    "PURPOSE_TEXT_1": "De diensten beheren, administreren, u voorzien van de diensten of u voorzien van de producten die u aanvraagt ​​en, indien van toepassing, voor de vervulling en uitvoering van de contracten die u mogelijk aangaat, uw smaak beter begrijpen en de diensten aanpassen aan uw voorkeuren.",
+    "PURPOSE_TEXT_2": "U per post, e-mail en andere gelijkwaardige elektronische communicatiemiddelen commerciële en reclamecommunicatie te sturen over onze producten en/of diensten.",
+    "RECIPIENTS_TITLE": "4-<strong>Ontvangers:</strong>",
+    "RECIPIENTS_TEXT": "We sluiten een contract met een entiteit die diensten levert zoals onderhoud en hosting, via contracten voor het inbedrijfstellen van behandelingen ter ondersteuning van de aangegeven behandelingsdoeleinden.",
+    "RETENTION_TITLE": "5-<strong>Bewaartermijn voor gegevens:</strong>",
+    "RETENTION_TEXT": "Wij bewaren uw gegevens zolang de behandeling voortduurt en u niet om verwijdering vraagt.",
+    "RIGHTS_TITLE": "6-<strong>Rechten:</strong>",
+    "RIGHTS_TEXT_1": "U kunt het recht uitoefenen op toegang, rectificatie, verwijdering, beperking van de verwerking, verzet, overdraagbaarheid en het recht om niet te worden onderworpen aan een besluit dat uitsluitend op geautomatiseerde verwerking is gebaseerd.",
+    "RIGHTS_TEXT_2": "U kunt uw toestemming zonder terugwerkende kracht intrekken of u verzetten tegen de ontvangst van commerciële reclamecommunicatie per e-mail en andere gelijkwaardige elektronische communicatiemiddelen, door een schriftelijke mededeling te sturen naar het adres dat is vermeld in de juridische kennisgeving.",
+    "RIGHTS_TEXT_3": "U heeft ook het recht om een ​​claim in te dienen bij de toezichthoudende autoriteit, in Spanje, het Spaanse Agentschap voor Gegevensbescherming.",
+    "POLICY_CHANGE_TITLE": "7-<strong>Wijziging van het privacybeleid:</strong>",
+    "POLICY_CHANGE_TEXT": "Wij behouden ons het recht voor om ons privacybeleid te wijzigen, volgens onze eigen criteria, of gemotiveerd door een leerstellige wijziging van de bevoegde gegevensbeschermingsautoriteit, wetgevend of jurisprudentie. Het gebruik van de Website na dergelijke wijzigingen impliceert aanvaarding hiervan.",
+    "LAW_TITLE": "8-<strong>Toepasselijke wetgeving:</strong>",
+    "LAW_TEXT": "Elke controverse die voortvloeit uit het gebruik van deze site zal worden beheerst, geïnterpreteerd en ingediend in overeenstemming met de wetten van Spanje."
+  }
+}

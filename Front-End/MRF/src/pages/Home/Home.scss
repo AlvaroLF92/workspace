@@ -1,0 +1,207 @@
+// Bubble info content
+
+.content-blocks {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 2rem;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.content-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 19rem;
+  text-align: center;
+  padding: 1rem;
+}
+
+.content-image {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+.content-text p {
+  font-weight: bold;
+  margin: 0;
+  color: #333;
+  font-size: 1.4rem;
+}
+
+@media (max-width: 1350px) {
+  .content-block {
+    max-width: 15rem;
+  }
+
+  .content-text p {
+    font-size: 1.4rem;
+  }
+}
+
+@media (max-width: 1024px) {
+  .content-block {
+    max-width: 10rem;
+  }
+}
+
+@media (max-width: 705px) {
+  .content-block {
+    max-width: 15rem;
+  }
+}
+
+// Price per day section
+
+.square-elements-container {
+  background-color: #9cc31c;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  margin-top: 2rem;
+
+  .square-flex {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap; 
+    width: 70%; 
+
+    @media (max-width: 900px) {
+      flex-wrap: wrap;
+      gap: 2rem;
+    }
+
+    @media (max-width: 1500px) {
+      width: 90%;
+    }
+  }
+
+  .square-item {
+    background-color: #ffffff;
+    border-radius: 0.5rem;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 13rem;
+    height: 10rem;
+    box-sizing: border-box;
+    justify-content: center;
+
+    .main-text {
+      font-size: 2rem;
+      font-weight: bold;
+      margin-bottom: 0;
+      .first-letter {
+        font-size: 4.5rem;
+        font-weight: bold;
+        color: #333;
+      }
+    }
+
+    .secondary-text {
+      font-size: 1.5rem;
+      font-weight: 500;
+      padding: 0.1rem 0.3rem;
+      background-color: #9cc31c;
+      border-radius: 0.5rem;
+      color: whitesmoke;
+      display: inline-flex;
+      align-items: center;
+      margin-left: 1rem;
+    }
+  }
+
+  .text-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .main-centered-text {
+      font-size: 2rem;
+      font-weight: bold;
+      color: #222;
+      text-align: center;
+
+      @media (max-width: 380px) {
+        font-size: 1.2rem;
+      }
+    }
+
+    .secondary-centered-text {
+      font-size: 1.2rem;
+      font-weight: 600;
+      color: #555;
+      text-align: center;
+      display: inline-flex;
+      align-items: center;
+
+      @media (max-width: 400px) {
+        font-size: 1rem;
+        margin: 0.5rem;
+      }
+    }
+  }
+}
+
+.title-blocks {
+  text-align: center;
+  margin: 2rem;
+  h1 {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+}
+
+// Asterisk style for secondary text
+
+.secondary-text-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  font-style: italic;
+  justify-content: center;
+}
+
+.asterisk {
+  font-size: 2rem;
+  color: #9cc31c;
+  width: 1rem;
+}
+
+// Media clickable-bubbles section
+
+.modal-body {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.modal-body .btn {
+  color: black !important;
+  background-color: white !important;
+  border: 1px solid #ccc !important;
+  box-shadow: none !important;
+  transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+.modal-body .btn:hover {
+  background-color: #f8f9fa !important;
+  color: black !important;
+  transform: translateY(-2px);
+}
+
+.modal-body .btn:focus {
+  box-shadow: none !important;
+}
+
+.modal-footer {
+  display: none;
+}

@@ -1,0 +1,52 @@
+.privacy-policy-container {
+    background-color: #2f2f2f;
+    color: whitesmoke; 
+    padding: 2rem 6.5rem 2rem 6.5rem;
+    line-height: 1.6;
+    margin: 0 auto; 
+    box-shadow: 0 4px 8px rgba(91, 89, 89, 0.2); 
+  }
+  
+  .section-title {
+    font-size: 2rem;
+    text-align: left;
+    margin-bottom: 1.5rem;
+    font-weight: bold;
+    color: #9cc31c;
+  }
+  
+  .intro-text {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+    text-align: justify;
+  }
+  
+  .privacy-sections {
+    section {
+      margin-bottom: 2rem;
+      padding: 1rem;
+      background-color: rgba(110, 109, 109, 0.19); 
+      border-radius: 4px;
+  
+      h3 {
+        font-size: 1.1rem;
+        margin-bottom: 0.5rem;
+        color: #9cc31c;
+       
+      }
+  
+      p {
+        font-size: 1rem;
+        margin: 0.5rem 0;
+        text-align: justify;
+      }
+    }
+  }
+  
+  
+  @media (max-width: 990px) {
+    .privacy-policy-container {
+      padding: 2rem 4rem 2rem 4rem;
+    }
+  }
+  

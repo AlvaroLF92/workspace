@@ -1,0 +1,140 @@
+.contact-page-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 10vw;
+  padding: 4rem 9.5rem;
+}
+
+.text-content,
+.form-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.text-content .contact-title {
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.text-content .contact-info {
+  text-align: center;
+  font-size: 1rem;
+  line-height: 2rem;
+}
+
+.checkbox-error {
+  color: red;
+  font-size: 0.875rem;
+  margin-top: 0.5rem;
+  text-align: center;
+  height: 1.5rem;
+  line-height: 1.5rem;
+}
+
+.checkbox-field input {
+  width: 2rem;
+  height: 1rem;
+}
+
+.form-content .form-intro h1,
+.form-content .form-intro p {
+  text-align: center;
+  color: #9cc31c;
+  margin-bottom: 1rem;
+}
+
+.form-fields {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  width: 100%;
+}
+
+.form-field {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-field input,
+.form-field textarea {
+  padding: 1rem;
+  border: 0.0625rem solid #ccc;
+  border-radius: 0.25rem;
+  font-size: 1rem;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.form-button {
+  padding: 1rem 2rem;
+  background-color: #9cc31c;
+  color: white;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 0.25rem;
+  text-align: center;
+  width: 100%;
+  transition: background-color 0.3s ease;
+}
+
+.form-button:hover {
+  background-color: #7a9c18;
+}
+
+.form-button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.contact-image {
+  margin-top: 2rem;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.contact-image img {
+  width: 100%;
+  max-width: 37.5rem;
+  height: auto;
+  border-radius: 0.5rem;
+}
+
+@media (max-width: 900px) {
+  .contact-page-container {
+    flex-direction: column;
+    align-items: stretch;
+    padding: 10vw;
+  }
+
+  .text-content,
+  .form-content {
+    flex: unset;
+    
+  }
+
+  .form-fields {
+    gap: 1.5rem;
+  }
+
+  .form-button {
+    width: auto;
+  }
+
+  .contact-image img {
+    width: 60%;
+    height: auto;
+    margin: 0.5rem;
+  }
+}
+

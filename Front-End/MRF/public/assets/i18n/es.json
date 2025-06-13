@@ -1,0 +1,561 @@
+{
+  "TEST_PAGE": {
+    "PAGE_LABEL": "Test",
+    "WELCOME": "Bienvenido",
+    "GOODBYE": "Adiós"
+  },
+
+  "GLOBAL": {
+    "SEARCH": "Buscar",
+    "SEARCH_TITLE": "Buscar",
+    "NOT_FOUND": "No encontrado"
+  },
+
+  "FOOTER": {
+    "CONTACT_US": "CONTACTA CON NOSOTROS",
+
+    "CONTACT_INFO": {
+      "PHONE": "+ 34 651 651 341",
+      "MAIL": "info@motionrentandfun.com",
+      "ADRESS": "Calle Tiziano 37, 35017 Las Palmas de Gran Canaria",
+      "ADRESS_2": "(Las Palmas)"
+    },
+
+    "LEGAL_LINKS": "ENLACES LEGALES",
+
+    "FAQS": "FAQ's",
+
+    "LEGAL_ADVISE": "Aviso Legal",
+
+    "PRIVACITY": "Política de Privacidad",
+
+    "COOKIES": "Política de Cookies",
+
+    "ACCESS": "Declaración de Accesibilidad"
+  },
+
+  "HOME_PAGE": {
+    "PAGE_LABEL": "INICIO",
+
+    "CARROUSEL": {
+      "LINE_1": "<strong>Descubre Gran Canaria</strong> y la movilidad sostenible con <strong>Motion Rent and Fun</strong>",
+      "LINE_2": "Disfrute una experiencia inolvidable con nuestros scooters <strong>100% eléctricos</strong> Fauro Venice"
+    },
+
+    "ITEM_BATTERY": {
+      "LINE_1": "100%",
+      "LINE_2": "eléctricas"
+    },
+
+    "ITEM_LICENSE": {
+      "LINE_1": "Licencia",
+      "LINE_2": "AM, B o superior"
+    },
+
+    "ITEM_HOTEL": {
+      "LINE_1": "Entrega",
+      "LINE_2": "en su hotel"
+    },
+
+    "ITEM_KM": {
+      "LINE_1": "60 - 70 km",
+      "LINE_2": "de autonomía"
+    },
+
+    "TEXT_EXPERIENCE_DESCRIPTION": "<strong>Disfrute de una experiencia inolvidable</strong> con las motos <strong>100% eléctricas de Motion Rent and Fun</strong>, la mayoría de las personas que las prueban confirman que son de  <strong>muy fácil conducción</strong>, simplemente <strong>acelerar y frenar</strong>, limitadas a <strong>45km/h</strong>, pueden conducirlas cualquier persona con <strong>licencia de conducir AM, B ó superior</strong> y una experiencia única, al no sentir las vibraciones, el ruido o los humos, son el vehículo perfecto para moverse por los núcleos urbanos más saturados, pero también para visitar esas carreteras de costa o las que nos llevan a las montañas y pintorescos pueblos del interior de la isla.",
+
+    "TEXT_CHARGER": "Les entregamos el <strong>cargador que puede usar en cualquier enchufe convencional y dos baterías extraíbles de 30-35 km de autonomía por batería.</strong>",
+
+    "TEXT_DESCRIPTION_AS_TOY": "<strong>'Parecen un juguete, de tan bonitas que son, pero son muy funcionales, además viajar con esa facilidad, en silencio, una maravilla, disfrutamos mucho'<strong>",
+
+    "TEXT_HOMOLOGATION": "Suelen comentar los clientes y es que efectivamente, para estar <strong>homologadas por la U.E (Euro5, cero emisiones)</strong> deben cumplir con los estándares más exigentes de seguridad a nivel mundial.",
+
+    "TEXT_BATTERY": "<strong>Baterías 100% portátiles.</strong> Sin esfuerzo podrás extraer una o las dos baterías que incluyen nuestras moticicletas. Es posible cargar una de las baterías mientras usas la otra, o cargar ambas y tener la máxima autonomía.",
+
+    "PORTABLE": "100% PORTABLE",
+
+    "1DAY": "1DÍA",
+
+    "2DAYS": "2DÍAS",
+
+    "3DAYS": "3DÍAS",
+
+    "1DAY_SUBTEXT": "50 EUROS",
+
+    "2DAY_SUBTEXT": "45 EUROS",
+
+    "3DAY_SUBTEXT": "40 EUROS",
+
+    "PRICE_PER_DAY": "*Precio por día.",
+
+    "TAX_1": "Cascos, seguro e impuestos incluídos",
+
+    "TAX_2": "Depósito de fianza 130 € (en efectivo o con tarjeta)",
+
+    "BOOKING_INFO": "Reservas e info:",
+
+    "WHATSAPP_ITEM": {
+      "LINE_1": "Escríbenos por",
+      "LINE_2": "Whatsapp"
+    },
+
+    "PHONE_ITEM": {
+      "LINE_1": "Llámanos",
+      "LINE_2": "+34 651 651 341"
+    },
+
+    "LIST_ITEM": {
+      "LINE_1": " Rellena un",
+      "LINE_2": "Formulario"
+    },
+
+    "PREFOOTER_TEXT": "Aprovéchese de los privilegios de un <strong>scooter 100% eléctrico</strong> y no tendrá que pensar en gasolineras, siempre tendrá más a mano un enchufe convencional y consume como cargar un móvil",
+
+    "PREFOOTER_TEXT_2": "Pregunta por nuestros puntos de reserva a través de whats app"
+  },
+  "OUR_MISSION_PAGE": {
+    "PAGE_LABEL": "NUESTRA MISIÓN",
+
+    "CARROUSEL": {
+      "LINE_1": "Trabajamos para impulsar una <strong>movilidad urbana</strong> fiable y eficiente <strong>en Gran Canaria</strong>",
+      "LINE_2": "Tu socio en <strong>movilidad sostenible</strong> en <strong>Gran Canaria</strong>",
+      "LINE_3": "Alquiler de <strong>Motos Eléctricas</strong> en <strong>Gran Canaria</strong>"
+    },
+
+    "OUR_MISSION": "NUESTRA MISIÓN",
+
+    "OUR_MISSION_DESCRIPTION_TEXT": {
+      "TEXT_1": "En <strong>Motion Rent and Fun</strong> queremos impulsar la renovación de un parque móvil en unas islas ya densamente pobladas que reciben cada año mayor número de visitantes y nuevos residentes. La forma de solucionar esa necesidad pasa por la introducción en el mercado de <strong>vehículos más eficientes, económicos y sostenibles</strong>, que a la vez de aportar movilidad nos asegurarán una <strong>aventura inolvidable.</strong>",
+      "TEXT_2": "Nuestras ciudades y pueblos, cada vez reducen más los límites de velocidad, además habilitan carriles bus y taxi también para ciclomotores y ponen a disposición de residentes y visitantes más plazas de motos, además de ser gratis incluso en zona azul o verde.",
+      "TEXT_3": "Gane tiempo y ahorre dinero con nuestros scooters <strong>100% eléctricos</strong> mientras trabaja o disfruta de sus vacaciones en la isla, ¿Sabías que desde Las Palmas de Gran Canaria a Cruz de Tejeda hay aproximadamente 25 km? “, ¿será por eso que nos llaman el continente en miniatura? Por ello creemos que una de nuestras motos es la manera perfecta de conocer esta isla de una forma más sostenible y respetuosa.",
+      "TEXT_4": "En <strong>Motion Rent and Fun</strong> trabajamos para ofrecer a nuestros clientes los productos de <strong>Fauro Motor Company</strong>, quien ensambla con piezas fabricadas con calidad europea, todas ellas garantizadas y homologadas."
+    },
+
+    "PREFOOTER_TEXT": "Descubra todas las ventajas de nuestros productos, no sólo para usted, sino para la sociedad en general, ya que supondrá un ahorro tanto energético como económico, además de contribuir a una movilidad urbana e interurbana más sostenible y contribuir con un entorno más silencioso",
+    "PREFOOTER_TEXT_2": "Pregunta por nuestros puntos de reserva a través de whats app"
+  },
+  "SERVICES_PAGE": {
+    "PAGE_LABEL": "SERVICIOS",
+
+    "CARROUSEL": {
+      "LINE_1": "Trabajamos para impulsar una <strong>movilidad urbana<strong> fiable y eficiente <strong>en Gran Canaria<strong>",
+      "LINE_2": "Tu socio en <strong>movilidad sostenible en Gran Canaria<strong>",
+      "LINE_3": "Alquiler de <strong>Motos Eléctricas</strong> en Gran Canaria con <strong>Motion Rent and Fun</strong>"
+    },
+    "SCOOTER": "Disfruta de una scooter <strong>{{model}}</strong>.",
+
+    "LICENSE": "Necesaria licencia de conducir AM, B o Superior.",
+
+    "SERVICE_TEXT": "Actualmente ofrecemos nuestros servicio de alquiler por días completos de nuestro modelo más vintage y pintoresco, nuestras Fauro Venice, nuestro servicio es “a domicilio”, entregándole el vehículo allí donde se hospede. Se trata de un scooter 100% eléctrico equivalente a 50cc, precisa de licencia de conducir AM, B o superior, le entregaremos cascos, 2 baterías extraíbles (7,8kgs cada batería) LG ion litio, con indicador de nivel independiente, con autonomía de 30-35 km por batería, la moto cuenta con alarma, y encendido sin llave y un cargador con el que podrá cargarlas en cualquier enchufe convencional.",
+
+    "MOTORIZATION_TEXT": "La motorización eléctrica vino para quedarse, el hecho de tener los motores magnéticos en la rueda trasera, hace que el peso del motor aumente su estabilidad, algo que, unido a frenos superiores a los exigidos por normativa, convierte a nuestros vehículos en los perfectos para el uso de los nuevos usuarios de las dos ruedas, que solamente buscan pasear tranquilamente por nuestras carreteras sin complicaciones, acelerar y frenar, sin quemaduras ni manchas de aceite, sin “malos humos”, sin vibraciones y ¡sin ruido!.",
+
+    "ISLANDS_TEXT": "Nuestras islas, densamente pobladas y en muchas zonas sin apenas aparcamientos disponibles necesitan desahogar nuestras ciudades y hacerlas un lugar mejor para vivir.",
+
+    "RENT_LINE_1": "Alquiler a domicilio en el NE y Sur de Gran Canaria.Pregunte por nuestros puntos de entrega.",
+
+    "RENT_TITLE" : "ALQUILER",
+
+    "RENT_BUTTON" : "ALQUILAR",
+
+    "RENT_SCOOTER" : "Alquila ya tu <strong>{{model}}</strong>",
+    
+    "INCLUDE" : "<strong>Incluye:</strong> 2 cascos - 2 baterías - seguro - impuestos",
+
+    "DELIVERY" : "<strong>ENTREGA A DOMICILIO</strong>",
+
+    "ELECTRIC" : "100% eléctrica",
+
+    "NOISE" : "Libre de ruido",
+
+    "POLLUTION" : "Libre de polución",
+
+    "VIBRATION" : "Sin vibraciones",
+
+    "BURN" : "Sin riesgo de incendio",
+
+    "MORE_INFO" : "Más info",
+
+    "SHOW_LESS" : "Mostrar menos",
+
+    "SHOW_ELECTRIC" : "100% eléctrica equivalente a 50cc",
+
+    "SHOW_BATTERY" : "2 baterías extraibles con indicador de nivel ( 7.8 kg / batería )",
+
+    "SHOW_AUTONOMY" : "Con autonomía de 30-35 km por batería",
+    
+    "RENT": {
+      "LINE_1": "Fianza de <strong>{{price}}</strong> en efectivo o con tarjeta"
+    },
+
+    "PANORAMIC_TOURS": {
+      "TEXT_1": "Desde Motion rent and fun les invitamos a visitar nuestra web donde podrán conocer nuestras novedades como los tres tours ya en marcha.",
+      "TEXT_2": "Como ya saben llevamos nuestras motos eléctricas a donde los clientes se hospedan. Pues ahora además de poder ofrecer el servicio de alquiler por días o semanas contamos con los siguientes tours guiados, con guías oficiales para inglés y español.",
+      "PANORAMIC_TOUR_GRAN_CANARIA": {
+        "TEXT_1": "Esta ruta ofrece un completo panorama de la ciudad de Las Palmas de Gran Canaria y una amplia visión sobre la evolución urbana desde sus orígenes, en el barrio de Vegueta, hasta la actualidad.",
+        "TEXT_2": "Gracias al uso del ciclomotor eléctrico, que facilita una gran utilidad y comodidad, nos adentraremos en la esencia de esta ciudad, visitando varios miradores desde los que contemplar algo más de cinco siglos de historia. Inmortalizarás tu momento a bordo de una Fauro Venice, teniendo como telón de fondo esta ciudad atlántica y la más poblada de todas las Islas Canarias.",
+
+        "ROUTE_LINE": "Ruta (6hrs) de unos 50 km visitando: Route (6hrs) around 50 Km visiting:",
+
+        "ROUTE_LIST": "● Salida Torre Woermann ● Vegueta ● Parque Doramas y Pueblo Canario ● Mirador en Las Coloradas ● Mirador en el Auditorio Alfredo Kraus ● Mirador de Altavista ● Mirador de Cuatro Cañones ● Mirador de la Punta de Diamante.",
+
+        "PRICE_1": "Precio por persona/ moto individual 75 € sin comida",
+
+        "PRICE_2": "Precio por persona con comida 90€*",
+
+        "PRICE_3": "Precio pareja/1 moto para dos 120€ sin comida",
+
+        "PRICE_4": "Precio pareja/ 1 motorbike para dos personas con comida 150€*",
+
+        "FOOD_PRICE": "* La comida se pagará en el momento de entrega de la moto para confirmar al restaurante la reserva.",
+
+        "MENU": "Menú degustación - 15 Bebida, Café, postre aparte."
+      },
+
+      "PANORAMIC_TOUR_AYAGAURES": {
+        "TEXT_1": "Se trata de un tour guiado con nuestras fantásticas motos eléctricas Fauro Venice, de muy fácil manejo y estabilidad, Saliendo desde Maspalomas hacia el interior de la isla, sin ruidos, sin quemaduras, sin vibraciones ni malos humos, visitando la presa de Ayagaures y dando un paseo en su maravilloso entorno natural, explicación de cómo se nutre esa presa de agua y citaremos algunas especies de fauna y vegetación autóctona y en muchos casos endémica, ascenso al mirador de Ayagaures, desde donde poco más adelante veremos Palmitos Park desde arriba y bajada con vistas panorámicas a las dunas de Maspalomas, una experiencia que no dejará indiferente a nadie.",
+
+        "PRICE_1": "Precio por persona/ moto individual 75 €",
+
+        "PRICE_2": "Precio pareja/1 moto para dos 120€"
+      },
+
+      "TOUR_BEACHES": {
+        "TEXT_1": "Una gran oportunidad para conocer las mejores playas de Maspalomas y Mogán en nuestras motos 100% eléctricas Fauro Venice, de muy fácil conducción, con las que podremos aparcar cerca de los mejores puntos de observación.",
+
+        "TEXT_2": "Comenzamos desde Playa del Inglés con las mejores vistas de las Dunas de Maspalomas, para luego visitar la también reserva natural de La Charca de Maspalomas, desde allí hacia la playa de Meloneras y más tarde nos dirigiremos por la carretera de la costa Gc 500 hacía El Pajar, haciendo una parada y corta visita al Yacimiento arqueológico del Llanillo, en la playa del LLanillo, ya en el Pajar podremos tomar un refrigerio antes de continuar el tour, desde allí visitaremos Anfi del mar y más tarde llegaremos a Amadores, donde tendremos tiempo para darnos un baño o tomar algo en sus múltiples terrazas, para después volver al punto de partida, Playa del Inglés.",
+
+        "PRICE_1": "Precio por persona/ moto individual 75 €",
+
+        "PRICE_2": "Precio pareja/1 moto para dos 120€",
+
+        "COMBO": "Combo BEACHES & SUNSET from Yacht",
+
+        "COMBO_TEXT_1": "Una gran oportunidad para vivir una experiencia 'high life' , venga a conocer las mejores playas de Maspalomas y Mogán en nuestras motos 100% eléctricas Fauro Venice, de muy fácil conducción, con las que podremos aparcar cerca de los mejores puntos de observación y terminando el día viendo la puesta de sol a bordo del yate privado de Nirvana Dreams.",
+
+        "COMBO_TEXT_2": "Comenzamos desde Playa del Inglés, para luego visitar la reserva natural La Charca de Maspalomas, desde allí hacia la playa de Meloneras y más tarde nos dirigiremos por la carretera de la costa GC-500 hacía El Pajar donde podremos tomar un refrigerio antes de continuar el tour, desde allí visitaremos Anfi del mar y más tarde llegaremos a Amadores, desde donde regresaremos hacia Puerto Rico y zarparemos en un yate privado para un tour de 2 horas durante las cuales podremos bañarnos, comer algo y esperar a la puesta de sol. Una vez desembarquemos regresaremos hacia playa del Inglés en nuestras motos.",
+
+        "COMBO_PRICE_1": "Precio por persona/ moto individual 125 €",
+
+        "COMBO_PRICE_2": "Precio pareja/1 moto para dos 189€"
+      },
+
+      "RENT": {
+        "TEXT_1": "Motion rent and fun es fundada por el representante comercial de Fauro motor company con más de 15 años de experiencia. Actualmente podemos ofrecerles vehículos de segunda mano como los utilizados en nuestro alquiler. Elaboramos lista de reserva para clientes interesados en la cuarta generación de nuestro modelo Fauro Venice."
+      },
+
+      "MAINTENANCE": {
+        "TITLE": "Mantenimiento incluido en tu alquiler de motos eléctricas",
+
+        "LINE_1": "Además del alquiler de motos eléctricas, ofrecemos servicio de mantenimiento que incluye:",
+
+        "ASSIST": "Asistencia técnica: nuestro equipo de técnicos está disponible para ayudarte en cualquier momento. Necesario carnet, incluido seguro, cascos para 2 personas ,autonomía de 30 a 35 kms (CADA BATERÍA) con 2 baterías extraíbles, entregamos cargador para poder recargar en cualquier enchufe.",
+
+        "REPAIR": "Reparaciones: si tu moto sufre algún desperfecto, lo reparamos de forma rápida y eficaz.",
+
+        "REVISION": "Revisiones periódicas: realizamos revisiones periódicas para garantizar el buen estado de tu moto.",
+
+        "LINE_2": "El equipo de Fauro Motor Company supervisan y mantienen nuestra flota.",
+
+        "IMAGE_GALLERY": "GALERIA DE IMÁGENES"
+      }
+    },
+
+    "PREFOOTER_TEXT": "Aprovéchese de los privilegios de alquilar un <strong>scooter 100% eléctrico</strong> en Maspalomas y no tendrá que pensar en gasolineras, siempre tendrá más a mano un enchufe convencional y consume como cargar un móvil",
+
+    "PREFOOTER_TEXT_2": "Pregunta por nuestros puntos de reserva a través de whats app"
+  },
+  "SALES_PAGE": {
+    "PAGE_LABEL": "VENTA",
+
+    "CARROUSEL": {
+      "LINE_1": "Aprovecha nuestras super <strong>ofertas en motocicletas eléctricas</strong> marca Fauro de <strong>kilómetro cero</strong>",
+      "LINE_2": "Conoce nuestros modelos <strong>Fun y Horwin CR6</strong>, equivalentes a <strong>50 y 125 cc</strong>, y no dejes pasar la oportunidad"
+    },
+
+    "KM_0": "KILÓMETRO CERO",
+
+    "KM_TEXT": "Nuestras motocicletas 100% eléctricas de kilómetro cero tienen un kilometraje mínimo y por supuesto incluyen tanto garantía como servicio de post-venta. ¡Y todo esto a un precio único!<strong> Pruébalas sin compromiso y sal de dudas</strong> llamando o escribiendo al + 34 651 651 341.",
+
+    "FAURO_CR6": {
+      "NAME": "FAURO HORWIN CR6",
+
+      "DESCRIPTION": "<strong>La perfecta combinación entre estilo y rendimiento.</strong> La Horwin ofrece una entrega de potencia superior. Equivalente a 125 cc, te hará disfrutar de la carretera.",
+
+      "PRICE_TAG": "Por solo",
+
+      "SPEED": "95 km/h de velocidad máxima (limitada)",
+
+      "AUTONOMY": "9O-100 kilómetros de autonomía",
+
+      "POWER": "6.2 KW de potencia en el motor",
+
+      "BATTERY": "Batería de litio (72V55AH)",
+
+      "CHARGE": "3 horas de tiempo de carga",
+
+      "CYCLE": "2.000 ciclos de carga",
+
+      "TECH": {
+        "BREAKS": "Frenos: D 100/80–17, T 120/80–17",
+
+        "TYRES": "Neumáticos: D&T:120/70-12",
+
+        "WEIGHT": "Peso total: 134 kilos",
+
+        "MAX_WEIGHT": "Carga máxima: 170 kilos",
+
+        "SIZE": "Dimensiones: 204×77×112 cm",
+
+        "CHARGER": "Cargador: 220 V / 15 A",
+
+        "TENSION": "Tensión: 110V/220V 50-60Hz",
+
+        "CONTROLLER": "Controlador: 72V70A",
+
+        "MAX_INCLINATION": "Pendiente máxima: 20°",
+
+        "MAX_PAR": "Par máximo: 296 Nm"
+      }
+    },
+    "FAURO_FUN": {
+      "NAME": "FAURO FUN",
+
+      "DESCRIPTION": "<strong>Sin duda alguna, la mejor manera para desplazarte.</strong> Ágil en ciudad pero también recorre largas distancias cómodamente. Equivale a un ciclomotor de 50 cc.",
+
+      "PRICE_TAG": "Por solo",
+
+      "SPEED": "45 km/h. de velocidad máxima (limitada)",
+
+      "AUTONOMY": "80-90 kilómetros de autonomía",
+
+      "POWER": "3.000 W de potencia en el motor",
+
+      "BATTERY": "Batería de litio extraíble (72V40AH)",
+
+      "CHARGE": "6-8 horas de tiempo de carga",
+
+      "CYCLE": "2.000 ciclos de carga",
+
+      "TECH": {
+        "BREAKS": "Frenos: Frenos de disco D&T",
+
+        "TYRES": "Neumáticos: D&T:120/70-12",
+
+        "WEIGHT": "Peso total: 76 kgs. (sin bateria)",
+
+        "MAX_WEIGHT": "Carga máxima: 150 kilos",
+
+        "SIZE": "Dimensiones: 191 x 80 x 115 cm",
+
+        "CHARGER": "Cargador: 72V8A",
+
+        "TENSION": "Tensión: 110V/220V 50-60Hz",
+
+        "CONTROLLER": "Controlador: 72V70A",
+
+        "MAX_INCLINATION": "Pendiente máxima: 30°"
+      }
+    },
+
+    "TEST": "Pruébalas sin compromiso o solicita más info:",
+
+    "WHATSAPP_ITEM": {
+      "LINE_1": "Escríbenos por",
+      "LINE_2": "Whatsapp"
+    },
+
+    "PHONE_ITEM": {
+      "LINE_1": "Llámanos"
+    },
+
+    "LICENSE": "Conducible con ",
+
+    "LICENSE_TYPE_CR6": "Carnet B",
+
+    "LICENSE_TYPE_FUN": "Licencia AM",
+
+    "PREFOOTER_TEXT": "Aprovéchese de los privilegios de un <strong>scooter 100% eléctrico</strong> y no tendrá que pensar en gasolineras, siempre tendrá más a mano un enchufe convencional y consume como cargar un móvil",
+
+    "PREFOOTER_TEXT_2": "Pregunta por nuestros puntos de reserva a través de whatsapp"
+  },
+  "CONTACT_PAGE": {
+    "PAGE_LABEL": "CONTACTO",
+
+    "CARROUSEL": {
+      "LINE_1": "Descubre la Movilidad Sostenible con <strong>Motion Rent and Fun</strong> en Gran Canaria"
+    },
+
+    "CONTACT": {
+      "TITLE": "Datos de Contacto de Motion Rent and Fun",
+
+      "TEXT_1": "Si estás interesado en contactarnos para obtener más información sobre nuestras emocionantes ofertas o para solicitar un presupuesto sin compromiso, aquí tienes los datos de contacto de Motion Rent and Fun:",
+
+      "ADRESS": "Dirección: Calle Tiziano 37, 35017 Las Palmas de Gran Canaria (Las Palmas)",
+
+      "PHONE": "Teléfono: + 34 651 651 341",
+
+      "MAIL": "Correo Electrónico: info@motionrentandfun.com",
+
+      "TEXT_2": "SI ESTÁS INTERESADO EN ALQUILER PARA 1 MES O MÁS, PREGUNTEN POR NUESTROS PRECIOS ESPECIALES PARA RESIDENTES Y EMPRESAS. "
+    },
+    "CONTACT_FORM": {
+      "TITLE": "Formulario de contacto",
+
+      "FIELD": "'*' señala los campos obligatorios",
+
+      "NAME": "Nombre*",
+
+      "MAIL": "Email*",
+
+      "MESSAGE": "Mensaje",
+
+      "PRIVACITY": "He leído y aceptado la Política de Privacidad *",
+
+      "CONTACT": "Autorizo a contactarme por email o por cualquier medio con fines comerciales",
+
+      "CAPTCHA": "Soy humano",
+
+      "SEND_BUTTON": "Enviar"
+    },
+
+    "RENTING_FORM": {
+      "TITLE": "Formulario de Contacto - Renting de Motos Eléctricas",
+
+      "FIELD": "'*' señala los campos obligatorios",
+
+      "NAME": "Nombre*",
+
+      "SURNAME": "Apellidos",
+
+      "MAIL": "Email*",
+
+      "PHONE": "Teléfono",
+
+      "START_DATE": "Fecha de inicio del alquiler*",
+
+      "END_DATE": "Fecha de finalización del alquiler*",
+
+      "BIKE_NUM": "Cantidad de motos requeridas*",
+
+      "HELMET_SIZE": "Talla de cascos",
+
+      "ADD_COMMENT": "Comentarios adicionales:",
+
+      "EXP_QUESTION": "¿Tienes experiencia previa en la conducción de motos eléctricas?*",
+
+      "ANSW_YES": "Si",
+
+      "ANSW_NO": "No",
+
+      "LICENSE_QUESTION": "¿Posees una licencia de conducir válida?*",
+
+      "SAFETY_QUESTION": "¿Tienes alguna pregunta o inquietud sobre la seguridad o el uso de nuestras motos eléctricas?",
+
+      "SERVICE_QUESTION": "¿Cómo te enteraste de nuestro servicio de alquiler de motos eléctricas?",
+
+      "PRIVACITY": "He leído y aceptado la Política de Privacidad *",
+
+      "AUTORIZATION": "Autorizo a contactarme por email o por cualquier medio con fines comerciales",
+
+      "SEND_BUTTON": "Enviar"
+    },
+
+    "PREFOOTER_TEXT": "¿Listo para planificar una aventura emocionante? <strong>Llama ahora al + 34 651 651 341</strong> y descubre cómo podemos hacer que tus sueños se hagan realidad. No esperes más, ¡tu próxima aventura te está esperando!",
+
+    "PREFOOTER_TEXT_2": "Pregunta por nuestros puntos de reserva a través de whats app"
+  },
+  "FAQS_PAGE": {
+    "AUTONOMY": {
+      "QUESTION": "<strong>¿Cuánta autonomía tienen?</strong>",
+      "ANSWER": "Entre 60 y 70 kilómetros de autonomía total, con una persona de peso medio. Esto es más que suficiente para recorrer localidades como Las Palmas o Maspalomas y para trasladarte a municipios cercanos como Mogán o Santa Lucía, si estás en el sur de la isla o Telde, Santa Brígida, San Mateo, Teror, Tejeda o Arucas, si sales desde la capital de la isla."
+    },
+    "RECHARGE": {
+      "QUESTION": "<strong>¿Cómo puedo recargar las baterías?</strong>",
+      "ANSWER": "Nuestros scooters cuentan con 2 baterías de 30-35 km cada una. Son extraíbles y las puedes llevar a cargar a cualquier enchufe convencional. El 80% de la carga de la batería se hace en 3 horas y el 20% restante en unas 2-3 horas más, dependiendo de cómo de descargada estuviera. Nuestros cargadores tienen indicador en rojo cuando está cargándose y en verde si alcanza toda la carga. Puedes dejar el cargador enchufado cuando esté en verde.",
+      "RECOMMENDATIONS": "Si llegas a tu hotel/apartamento con las dos baterías consumidas y quieres asegurar que al día siguiente estén las dos al máximo, puedes poner la menos descargada hasta 'irse a dormir' y entonces cambiar a la más descargada. Por la mañana, si la primera no ha terminado, puedes volver a cambiarla y estará completamente cargada mientras desayunas y te preparas para salir."
+    },
+    "EXPERIENCE": {
+      "QUESTION": "<strong>¿Necesito tener experiencia en el uso de scooters o motocicletas?</strong>",
+      "ANSWER": "Nuestros scooters son muy fáciles de conducir y no es necesario tener experiencia previa con ningún tipo de vehículo motorizado a dos ruedas."
+    },
+    "LICENSE": {
+      "QUESTION": "<strong>¿Qué tipo de licencia necesito?</strong>",
+      "ANSWER": "Nuestros scooters eléctricas tienen una potencia similar a una de combustión de 50 cc, por lo tanto se pueden conducir con licencias AM, B o superior."
+    },
+    "MINOR": {
+      "QUESTION": "<strong>¿Puedo conducir estas motocicletas siendo menor de edad?</strong>",
+      "ANSWER": "Puedes conducir nuestras motocicletas desde los 16 años si ya cuentas con licencia AM y vienes acompañado de un adulto que también firme el contrato. De no ser así, la fianza se podría ver incrementada hasta un máximo de 400€ para menores de 18 años."
+    },
+    "PASSENGER": {
+      "QUESTION": "<strong>¿Permite llevar a un pasajero?</strong>",
+      "ANSWER": "Sí, nuestras motocicletas están preparadas para conducirse junto a un pasajero."
+    },
+    "INSURANCE": {
+      "QUESTION": "<strong>¿El seguro cubre a un solo conductor o a varios?</strong>",
+      "ANSWER": "El seguro cubre varios posibles conductores pero han de constar en el contrato de alquiler, también cubre a pasajero y a terceros."
+    },
+    "PRICE": {
+      "QUESTION": "<strong>¿El precio es negociable?</strong>",
+      "ANSWER": "No, pero tenemos tarifas reducidas y ofertas según la cantidad de días. Consulta sin compromiso llamando o escribiendo al +34 651 651 341."
+    },
+    "RESIDENT_DISCOUNT": {
+      "QUESTION": "<strong>¿Existe tarifa reducida para residentes?</strong>",
+      "ANSWER": "Sí, consúltanos sin compromiso llamando o escribiendo al +34 651 651 341."
+    },
+    "BATTERY": {
+      "QUESTION": "<strong>¿Qué ocurre si me quedo sin batería en medio de la 'nada'?</strong>",
+      "ANSWER": "Nuestros scooters tienen 2 baterías de 30-35 kms cada una (para parejas de 140-150 kgs), siempre va a depender también del tipo de conducción o de carretera. En caso de quedarte sin energía, te llevaremos una batería cargada, que te supondrá un coste de 60 € extra."
+    },
+    "EMERGENCY": {
+      "QUESTION": "<strong>¿Incluye servicio de emergencia en caso de avería?</strong>",
+      "ANSWER": "Por supuesto, en caso de avería técnica te asistiremos en carretera facilitándote otra motocicleta o solucionando el problema en cuestión."
+    },
+    "COLOR": {
+      "QUESTION": "<strong>¿Puedo elegir el color de la moto?</strong>",
+      "ANSWER": "Sí, dentro de las posibilidades de stock que tengamos podemos ofrecerte scooters de distintos colores (celeste, amarilla y blanca, roja y blanca, verde turquesa o gris)."
+    },
+    "ANTI_THEFT": {
+      "QUESTION": "<strong>¿Tienen sistema antirrobos?</strong>",
+      "ANSWER": "Sí, nuestros scooters tienen bloqueo de rueda delantera, y también trasera con alarma puesta, siempre es recomendable usarla."
+    },
+    "DAMAGE": {
+      "QUESTION": "<strong>¿Qué ocurre si la moto sufre algún desperfecto durante el periodo de alquiler o nos roban los cascos?</strong>",
+      "ANSWER": "Si por ejemplo se nos cae mientras aparcamos, dichos desperfectos están cubiertos por la caution/fianza con un máximo de 130€ siempre y cuando no exista dolo."
+    },
+    "PARKING": {
+      "QUESTION": "<strong>¿Dónde puedo aparcar la moto?</strong>",
+      "ANSWER": "Puedes aparcar en cualquier aparcamiento de motos, delimitado en azul, verde o blanco, sin coste alguno, si las hay, si no las hay, puedes aparcar donde lo hacen los coches, siempre procurando dejar distancia para maniobrar la salida de los coches, mejor si no es entre dos coches. Nunca sobre la acera ni en zonas NO delimitadas cómo aparcamiento."
+    }
+  },
+  "LEGAL_ADVISE_PAGE": {
+    "TITLE": "AVISO LEGAL",
+    "TEXT1": "El titular de este sitio web es <strong>Motion Rent and Fun</strong>, con N.I.F. B13800552, con domicilio en <strong>Calle Tiziano, 37 - Tafira ( 35017 LAS PALMAS ).</strong>",
+    "TEXT2": "El acceso a la web de <strong>Motion Rent and Fun</strong> es <strong>gratuito.</strong> Todo el contenido es propiedad intelectual de <strong>Motion Rent and Fun.</strong> Cualquier utilización de los mismos contraria a las normas en materia de propiedad intelectual será perseguida con arreglo a la legislación vigente."
+  },
+  "PRIVACY_PAGE": {
+    "SECTION_TITLE": "USO Y TRATAMIENTO DE DATOS DE CARÁCTER PERSONAL",
+    "INTRO_TEXT": "Le informamos que los datos de carácter personal que pudieran proporcionarse, a través de este sitio web, así como los que pudiera facilitar en el futuro en el marco de su relación jurídica con esta entidad, serán incorporados a nuestra base de datos.",
+    "INFORMATION_TITLE": "Se informa sobre los siguientes extremos relativos a la protección de datos:",
+    "RESPONSIBLE_TITLE": "1-<strong>Responsable del tratamiento:</strong>",
+    "RESPONSIBLE_TEXT": "Somos responsables de los datos recogidos en el formulario correspondiente.",
+    "NEED_TITLE": "2-<strong>Necesidad del tratamiento:</strong>",
+    "NEED_TEXT": "La comunicación de sus datos a través del formulario correspondiente es obligatoria para que podamos contactar.",
+    "PURPOSE_TITLE": "3-<strong>Finalidades del tratamiento y legitimación del tratamiento:</strong>",
+    "PURPOSE_TEXT_1": "Gestionar, administrar, prestarle los servicios o facilitarle los productos que solicite y, en su caso, para el cumplimiento y ejecución de los contratos que pudiera celebrar, conocer mejor sus gustos, adecuar los servicios a sus preferencias.",
+    "PURPOSE_TEXT_2": "Enviarle, por correo postal, correo electrónico y otros medios de comunicación electrónica equivalente, comunicaciones comerciales y publicitarias sobre nuestros productos y/o servicios.",
+    "RECIPIENTS_TITLE": "4-<strong>Destinatarios:</strong>",
+    "RECIPIENTS_TEXT": "Contratamos con alguna entidad que presta servicios como los de mantenimiento y hosting, a través de contratos de encargo del tratamiento para dar soporte a los fines de tratamiento indicados.",
+    "RETENTION_TITLE": "5-<strong>Plazo de conservación de datos:</strong>",
+    "RETENTION_TEXT": "Conservaremos sus datos mientras se mantenga el tratamiento y no solicite la supresión de los mismos.",
+    "RIGHTS_TITLE": "6-<strong>Derechos:</strong>",
+    "RIGHTS_TEXT_1": "Podrá ejercitar los derechos de acceso, rectificación, supresión, limitación al tratamiento, oposición, portabilidad y derecho a no ser objeto de una decisión basada únicamente en el tratamiento automatizado.",
+    "RIGHTS_TEXT_2": "Podrá revocar su consentimiento sin efectos retroactivos u oponerse a la recepción de comunicaciones comerciales publicitarias por email y otros medios de comunicación electrónica equivalente, enviando una comunicación escrita al domicilio indicado en el aviso legal.",
+    "RIGHTS_TEXT_3": "También tiene derecho a presentar una reclamación ante la Autoridad de control, en España, la Agencia Española de Protección de Datos.",
+    "POLICY_CHANGE_TITLE": "7-<strong>Modificación de la política de privacidad:</strong>",
+    "POLICY_CHANGE_TEXT": "Nos reservamos el derecho a modificar nuestra Política de Privacidad, de acuerdo a nuestro propio criterio, o motivado por un cambio doctrinal de la Autoridad competente en Protección de Datos, legislativo o jurisprudencial. El uso de la Web después de dichos cambios implicará la aceptación de estos.",
+    "LAW_TITLE": "8-<strong>Legislación aplicable:</strong>",
+    "LAW_TEXT": "Cualquier controversia que se derive del uso de este Sitio, será regida, interpretada y sometida de acuerdo con las leyes de España."
+  }
+ 
+}

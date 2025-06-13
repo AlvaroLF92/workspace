@@ -1,0 +1,420 @@
+// Info top section
+
+.info-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  p {
+    padding: 1rem;
+    text-align: center;
+  }
+}
+
+.highlight {
+  color: #83a513;
+  font-weight: bold;
+}
+
+.title {
+  font-size: 2rem;
+  text-align: center;
+}
+
+.info-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #94bb15;
+}
+
+.license-warning {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1.5rem;
+  color: #333;
+
+  .license-warning-icon {
+    width: 1.5rem;
+    height: 1.5rem;
+    filter: invert(17%) sepia(90%) saturate(7493%) hue-rotate(0deg)
+      brightness(93%) contrast(118%);
+  }
+}
+
+@media (max-width: 900px) {
+  .info-section {
+    padding: 1rem;
+
+    p {
+      padding: 0.5rem;
+    }
+  }
+
+  .title {
+    font-size: 1.7rem;
+  }
+
+  .info-title {
+    font-size: 1.4rem;
+  }
+
+  .license-warning {
+    font-size: 1.3rem;
+  }
+}
+
+@media (max-width: 700px) {
+  .title {
+    font-size: 1.6rem;
+  }
+
+  .info-title {
+    font-size: 1.3rem;
+  }
+
+  .license-warning {
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 500px) {
+  .info-section {
+    p {
+      padding: 0rem;
+    }
+  }
+
+  .title {
+    font-size: 1.5rem;
+  }
+
+  .info-title {
+    font-size: 1.2rem;
+  }
+
+  .license-warning {
+    font-size: 1.1rem;
+  }
+}
+
+// Rental responsive section
+
+.rent-title {
+  background-color: #94bb15;
+  font-weight: bold;
+  font-size: 1.8rem;
+  text-align: center;
+  padding: 1rem;
+}
+
+.rent-sub-title {
+  font-size: 1.4rem;
+  text-align: center;
+  padding: 1rem;
+}
+
+.item-list {
+  list-style: none;
+  padding: 1rem;
+  margin-bottom: 0;
+
+  .list-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
+    gap: 1rem;
+
+    .icon {
+      width: 1rem;
+      height: 1rem;
+      filter: invert(69%) sepia(31%) saturate(491%) hue-rotate(57deg)
+        brightness(85%) contrast(88%);
+    }
+  }
+}
+
+.check-list-section {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 1rem 0;
+  
+  .list-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+
+    p {
+      font-size: 1rem;
+      margin: 0;
+    }
+  }
+}
+
+.top-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  margin-right: 0.5rem;
+  margin-bottom: 2rem;
+  img {
+    max-width: 23rem;
+    height: auto;
+  }
+}
+
+// Iconos de 1DDIA, 2DIAS etc..
+
+.square-elements-container-rental {
+  background-color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0.5rem;
+  gap: 1rem;
+  transition: all 0.3s ease;
+
+  .square-section-p {
+    font-size: 1.2rem;
+    text-align: center;
+    padding: 1rem;
+  }
+
+  .square-flex {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    
+  }
+
+  .square-item {
+    background-color: whitesmoke;
+    border-radius: 0.5rem;
+    border: #9cc31c solid;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 6rem;
+    height: 6rem;
+    box-sizing: border-box;
+    justify-content: center;
+
+    .main-text {
+      font-size: 1rem;
+      font-weight: bold;
+      margin-bottom: 0;
+
+      .first-letter {
+        font-size: 2rem;
+        font-weight: bold;
+        color: #333;
+      }
+    }
+
+    .secondary-text {
+      font-size: 0.8rem;
+      font-weight: bold;
+      padding: 0.1rem 0.1rem;
+      background-color: #9cc31c;
+      border-radius: 0.5rem;
+      color: whitesmoke;
+      display: inline-flex;
+      align-items: center;
+      margin-left: 1rem;
+    }
+  }
+
+  .text-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .main-centered-text {
+      font-size: 1rem;
+      font-weight: bold;
+      color: #222;
+      text-align: center;
+    }
+
+    .secondary-centered-text {
+      font-size: 0.9rem;
+      font-weight: 600;
+      color: #555;
+      text-align: center;
+      display: inline-flex;
+      align-items: center;
+    }
+  }
+}
+
+.rental-form-button {
+  background-color: #739111;
+  color: #fff;
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: #83a513;
+  }
+
+  &:active {
+    background-color: #6e8e0f;
+  }
+
+  .rent-button-icon {
+    width: 1.2rem;
+    height: auto;
+    filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg)
+      brightness(100%) contrast(100%);
+  }
+}
+
+// More info container
+
+.more-info-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.more-info-button {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  background-color: transparent;
+  color: grey;
+  border: none;
+  font-weight: bold;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  padding-top: 1rem;
+
+  &::before {
+    content: "+";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1rem;
+    height: 1rem;
+    margin-right: 8px;
+    background-color: transparent;
+    color: grey;
+    border-radius: 50%;
+    border: #555 1px solid;
+    font-size: 1rem;
+  }
+}
+
+.info-content {
+  margin-top: 1rem;
+  padding: 2rem;
+  width: 20rem;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .info-list {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 1rem;
+  }
+
+  .info-list-item {
+    display: flex;
+    align-items: center;
+    font-size: 1.2rem;
+    line-height: 2rem;
+    color: #333;
+    gap: 1rem;
+    margin-left: 0;
+    line-height: 2.5rem;
+
+    .info-icon {
+      width: 1rem;
+      height: 1rem;
+      margin-right: 0.5rem;
+      filter: invert(69%) sepia(31%) saturate(491%) hue-rotate(57deg)
+        brightness(85%) contrast(88%);
+    }
+  }
+}
+
+// Media for bigger screens
+@media (min-width: 1200px) {
+
+  .content-container .square-elements-container-rental {
+    .secondary-text {
+      font-size: 0.9rem ;
+    }
+    
+    .square-item {
+      height: 7rem ;
+      width: 7rem ;
+    }
+  }
+}
+
+@media (min-width: 900px) {
+
+  .info-section {
+    margin: 2rem 9.5rem;
+  }
+  .rental-layout-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+ 
+  }
+
+  .check-list-section,
+  .square-elements-container-rental {
+    flex: 1;
+  }
+
+  .check-list-section {
+    margin-top: 2rem;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+  }
+
+  .top-image-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .top-image {
+    margin-top: 5rem;
+    max-width: 30rem;
+
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
+}

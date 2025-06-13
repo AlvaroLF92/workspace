@@ -1,0 +1,57 @@
+.scroll-to-top-button {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  z-index: 2000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 4.5rem;
+  height: 4.5rem;
+  &:hover {
+    transform: scale(1.1);
+  }
+
+  svg {
+    width: 3rem;
+    height: 3rem;
+    padding-bottom: 0.75rem;
+  }
+
+  &.hidden {
+    display: none;
+  }
+
+
+}
+
+.menu-open {
+   background-color: #9cc31c;;
+  img {
+    object-fit: cover;
+    width: 5rem;
+    height: 5rem;
+   
+  }
+}
+
+.menu-closed {
+ 
+  background-color: #83a513;
+  color: white;
+
+  &:hover {
+    background-color: #7fa71f;
+    transform: scale(1.1);
+  }
+
+  svg {
+    width: 3rem;
+    height: 3rem;
+  }
+}

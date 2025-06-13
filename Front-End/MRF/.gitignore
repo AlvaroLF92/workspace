@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Log files
+npm-debug.log*
+
+# dotenv environment variable files
+.env
+.env.local
+.env.production
+.env.*.local
+
+# Windows
+Thumbs.db
+
+# Editor folders
+.vscode/
+
+# Vite specific
+.vite/
