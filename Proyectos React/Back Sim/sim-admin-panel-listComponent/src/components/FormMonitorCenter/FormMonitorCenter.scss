@@ -1,0 +1,81 @@
+$text-color: var(--white);
+$button-color: var(--red_primary);
+$button-color-hover: var(--red_light);
+
+.FormMonitorCenter {
+
+
+
+    .FormMonitorCenterHeader {
+        height: 10%;
+        padding: 2rem;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        color: $text-color;
+        font-size: 2rem;
+    }
+
+    .FormMonitorCenterBody {
+        height: 90%;
+        padding: 2rem;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+
+
+        .formContent {
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
+        }
+
+        input, select {
+            height: 2rem;
+            border-radius: 0.4rem;
+        }
+
+        .fieldError {
+            color: $text-color;
+            text-align: center;
+            text-decoration: underline;
+        }
+
+        .formButtons {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            text-align: center;
+        }
+
+        .submitButton {
+            padding: 1rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            background-color: $button-color;
+            color: $text-color;
+            border-radius: 1rem;
+            font-weight: 600;
+            font-size: 1.1rem;
+            border: none;
+            cursor: pointer;
+
+            &:hover{
+                background-color: $button-color-hover;
+            }
+        }
+
+        .cancelButton {
+            color: $text-color;
+            text-decoration: underline;
+            cursor: pointer;
+
+            &:hover{
+                color: $button-color-hover;
+            }
+        }
+    }
+}

@@ -1,0 +1,15 @@
+$loading-color: var(--red_primary);
+
+.LoadingSpinner {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 20%;
+
+    .pi {
+        font-size: 10rem !important;
+        color: $loading-color;
+    }
+}

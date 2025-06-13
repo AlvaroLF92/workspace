@@ -1,0 +1,23 @@
+$text-color: var(--white);
+$button-color: var(--red_primary);
+$button-color-hover: var(--red_light);
+
+.CustomButton {
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    background-color: $button-color;
+    color: $text-color;
+    border-radius: 1rem;
+    font-weight: 600;
+    font-size: 1.1rem;
+
+    &:hover{
+        background-color: $button-color-hover;
+    }
+}
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,105 @@
+{
+  "monitors": [
+    {
+      "id": 4,
+      "userName": "Einstain",
+      "password": "cvbnvbcncnv",
+      "email": "iq200@gmail.com",
+      "location": "es relativo",
+      "dateCreated": "23/04/1920",
+      "certificateLevel": 1,
+      "active": true
+    },
+    {
+      "id": 5,
+      "userName": "Manolo el del bombo",
+      "password": "rtyurtyu",
+      "email": "bumbum@gmail.com",
+      "location": "en el madrid barça",
+      "dateCreated": "21/02/1958",
+      "certificateLevel": 1,
+      "active": true
+    },
+    {
+      "id": 6,
+      "userName": "Elon Musk",
+      "password": "asdfadsf",
+      "email": "xyz@gmail.com",
+      "location": "camino a marte",
+      "dateCreated": "22/03/1980",
+      "certificateLevel": 3,
+      "active": false
+    },
+    {
+      "id": 7,
+      "userName": "Jesucristo the mesaiahhhhhhhhhhhhhhhhhhhhhhhh",
+      "password": "hgjkghjgjhk",
+      "email": "god.son.33@gmail.com",
+      "location": "a la diestra del señor",
+      "dateCreated": "0/00/0000",
+      "certificateLevel": 3,
+      "active": true
+    }
+  ],
+  "centersMockedData": [
+    {
+      "id": 8,
+      "userName": "Centro del universo",
+      "password": "asdfasdf",
+      "email": "c.universe@gmail.com",
+      "location": "via lactea",
+      "dateCreated": "14/08/1980",
+      "certificateLevel": 3,
+      "active": true
+    },
+    {
+      "id": 9,
+      "userName": "Rallador de queso",
+      "password": "gfdssdfg",
+      "email": "mamadisimo@gmail.com",
+      "location": "gym",
+      "dateCreated": "30/01/1975",
+      "certificateLevel": 1,
+      "active": true
+    },
+    {
+      "id": 10,
+      "userName": "Push Up",
+      "password": "zcvzcxvzv",
+      "email": "pupupu@gmail.com",
+      "location": "delante o detrás",
+      "dateCreated": "27/08/1965",
+      "certificateLevel": 2,
+      "active": false
+    }
+  ],
+  "classesMockedData": [
+    {
+      "id": 1,
+      "name": "Iniciación a SIM",
+      "url": "https://www.youtube.com/watch?v=h8Mu8q9TFsY",
+      "public": true,
+      "visible": true,
+      "certificateLevel": 2,
+      "dateCreated": "14/08/2022"
+    },
+    {
+      "id": 2,
+      "name": "SIM avanzado",
+      "url": "https://www.youtube.com/watch?v=QxxI5v4T62s",
+      "public": true,
+      "visible": false,
+      "certificateLevel": 2,
+      "dateCreated": "02/09/2022"
+    },
+    {
+      "id": 3,
+      "name": "SIM profesional",
+      "url": "https://www.youtube.com/watch?v=8atFMkRfpuA",
+      "public": false,
+      "visible": true,
+      "certificateLevel": 2,
+      "dateCreated": "22/10/2022"
+    }
+  ]
+}

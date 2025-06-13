@@ -1,0 +1,27 @@
+$text-color: var(--white);
+$background-color-hover: var(--red_dark);
+
+.HeaderButton {
+    display: inline-block;
+    width: 9rem;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    text-align: center;
+    font-size: 1.2rem;
+    border-radius: 0.5rem;
+
+    &:hover { 
+        @extend .selected;
+    }
+}
+.selected {
+    background-color: $background-color-hover;
+    font-size: 1.4rem;
+}
+.ButtonText{
+    color: $text-color;
+    font-weight: 600;
+}
+a{
+    text-decoration: none;
+} 

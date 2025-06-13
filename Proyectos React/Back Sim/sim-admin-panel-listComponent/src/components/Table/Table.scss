@@ -1,0 +1,98 @@
+$text-color: var(--white);
+$color-red-light: var(--red_light);
+$row-item-hover: var(--black_dark);
+$success: var(--success);
+$error: var(--error);
+
+
+.tableHeader {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.tableHeaderText{
+    color: $text-color;
+    font-size: 1.1rem;
+    font-weight: 500;
+
+    &_center{
+        @extend .tableHeaderText;
+        text-align: center;
+    }
+}
+
+.tableRowItem{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    border-radius: 0.5rem;
+    &:hover{
+        border: 1px solid;
+        border-color:  $color-red-light;
+        background-color: $row-item-hover;
+    }
+
+    .pi{
+        cursor: pointer;
+    }
+}
+
+.tableRowItemValue {
+    color: $text-color;
+    font-size: 0.9rem;
+    font-weight: 400;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+
+    &_center{
+        @extend .tableRowItemValue;
+        text-align: center;
+    }
+}
+
+.tableRowItemEdit {
+    display: flex;
+    flex-direction: row;
+    color: $text-color;
+    font-size: 1.3rem;
+    justify-content: space-around;
+    padding: 0 !important;
+    align-items: center;
+
+    .pi{
+        &:hover{
+            font-size: 1.8rem;
+        }
+    }
+}
+
+.iconEditBox{
+    width: 50%;
+    text-align: center;
+}
+
+.pi-circle-fill {
+    font-size: 1.3rem;
+    &:hover{
+        font-size: 1.8rem;
+    }
+}
+
+.active{
+    color: $success;
+}
+.inactive{
+    color: $error;
+}
+
+.col-10{
+    width: 10%;
+    padding: 1rem;
+}
+
+.col-20{
+    width: 20%;
+    padding: 1rem;
+}

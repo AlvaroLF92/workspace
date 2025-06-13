@@ -1,0 +1,19 @@
+.TablePageLayout {
+    height: 100%;
+}
+
+.layoutHeader {
+    height: 10%;
+    padding: 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+.layoutBody{
+    height: 90%;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
