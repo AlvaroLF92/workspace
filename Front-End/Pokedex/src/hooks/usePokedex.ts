@@ -23,6 +23,8 @@ export interface PokemonState {
   triggerReadingAnimation: () => void;
   isPowerOn: boolean;
   togglePower: () => void;
+  goToNext: () => void;
+  goToPrevious: () => void;
 }
 
 export function usePokedex(): PokemonState {
@@ -75,6 +77,41 @@ export function usePokedex(): PokemonState {
     setPage(pages[newIndex]);
   };
 
+  const goToNext = () => {
+    if (!showFrontSprite) {
+      toggleSprite();
+    }
+    if (!pokemonList.length) return;
+    const index = pokemonList.indexOf(selectedPokemonName!);
+    if (index === -1) {
+      console.warn(
+        "Pokémon actual no encontrado en la lista:",
+        selectedPokemonName
+      );
+      return;
+    }
+    triggerReadingAnimation();
+    const nextIndex = (index + 1) % pokemonList.length;
+    handlePokemonChange(pokemonList[nextIndex]);
+  };
+
+  const goToPrevious = () => {
+    if (!showFrontSprite) {
+      toggleSprite();
+    }
+    if (!pokemonList.length) return;
+    const index = pokemonList.indexOf(selectedPokemonName!);
+    if (index === -1) {
+      console.warn(
+        "Pokémon actual no encontrado en la lista:",
+        selectedPokemonName
+      );
+      return;
+    }
+    triggerReadingAnimation();
+    const prevIndex = (index - 1 + pokemonList.length) % pokemonList.length;
+    handlePokemonChange(pokemonList[prevIndex]);
+  };
   const triggerReadingAnimation = () => {
     setIsReading(true);
     setTimeout(() => setIsReading(false), 250);
@@ -142,5 +179,7 @@ export function usePokedex(): PokemonState {
     triggerReadingAnimation,
     togglePower,
     isPowerOn,
+    goToNext,
+    goToPrevious,
   };
 }

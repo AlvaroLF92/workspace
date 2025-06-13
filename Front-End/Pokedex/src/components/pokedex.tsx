@@ -20,6 +20,8 @@ const Pokedex: React.FC = () => {
     togglePage,
     toggleSprite,
     triggerReadingAnimation,
+    goToNext,
+    goToPrevious
 
   } = usePokedex();
 
@@ -43,6 +45,8 @@ const Pokedex: React.FC = () => {
           isReading={isReading}
           isPowerOn={isPowerOn}
           togglePower={togglePower}
+          goToNext={goToNext}
+          goToPrevious={goToPrevious}
         />
       ) : (
         <p>Loading...</p>

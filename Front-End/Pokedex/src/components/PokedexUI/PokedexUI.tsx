@@ -22,6 +22,8 @@ interface PokedexUIProps {
   isReading: boolean;
   isPowerOn: boolean;
   togglePower: () => void;
+  goToNext: () => void;
+  goToPrevious: () => void;
 }
 
 const PokedexUI: React.FC<PokedexUIProps> = ({
@@ -29,54 +31,18 @@ const PokedexUI: React.FC<PokedexUIProps> = ({
   isShiny,
   toggleShiny,
   onPokemonChange,
-  pokemonList,
-  selectedPokemonName,
   page,
   togglePage,
   showFrontSprite,
   toggleSprite,
   isAnimated,
   toggleAnimation,
-  triggerReadingAnimation,
   isReading,
   isPowerOn,
   togglePower,
+  goToNext,
+  goToPrevious
 }) => {
-  const goToNext = () => {
-    if (!showFrontSprite) {
-      toggleSprite();
-    }
-    if (!pokemonList.length) return;
-    const index = pokemonList.indexOf(selectedPokemonName);
-    if (index === -1) {
-      console.warn(
-        "Pokémon actual no encontrado en la lista:",
-        selectedPokemonName
-      );
-      return;
-    }
-    triggerReadingAnimation();
-    const nextIndex = (index + 1) % pokemonList.length;
-    onPokemonChange(pokemonList[nextIndex]);
-  };
-
-  const goToPrevious = () => {
-    if (!showFrontSprite) {
-      toggleSprite();
-    }
-    if (!pokemonList.length) return;
-    const index = pokemonList.indexOf(selectedPokemonName);
-    if (index === -1) {
-      console.warn(
-        "Pokémon actual no encontrado en la lista:",
-        selectedPokemonName
-      );
-      return;
-    }
-    triggerReadingAnimation();
-    const prevIndex = (index - 1 + pokemonList.length) % pokemonList.length;
-    onPokemonChange(pokemonList[prevIndex]);
-  };
 
   return (
     <div className="Pokedex-container">

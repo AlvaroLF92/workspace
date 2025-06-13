@@ -25,7 +25,8 @@ const Screen: React.FC<ScreenProps> = ({
   isPowerOn,
   togglePower,
 }) => {
-  const [powerState, setPowerState] = useState(0); // 0: off, 1: dot, 2: line, 3: show sprite
+  
+  const [powerState, setPowerState] = useState(0); 
 
   useEffect(() => {
     if (isPowerOn) {
